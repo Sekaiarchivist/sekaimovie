@@ -1,0 +1,127 @@
+General
+Unique ID                                : 45925988901616296256008818769583835471 (0x228D0612D97E84C1F6AE84398966894F)
+Complete name                            : Alice.in.Wonderland.2010.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 21.3 GiB
+Duration                                 : 1 h 48 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 28.1 Mb/s
+Movie name                               : Alice in Wonderland (2010)
+Encoded date                             : UTC 2016-11-27 11:30:56
+Writing application                      : mkvmerge v9.4.2 ('So High') 64bit
+Writing library                          : libebml v1.3.4 + libmatroska v1.4.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 48 min
+Bit rate mode                            : Variable
+Bit rate                                 : 24.1 Mb/s
+Maximum bit rate                         : 31.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.484
+Stream size                              : 18.2 GiB (86%)
+Title                                    : MPEG-4 AVC Video / 24112 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : DTS ES XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 48 min
+Bit rate mode                            : Variable
+Bit rate                                 : 3 966 kb/s
+Channel(s)                               : 6 channels
+Channel(s)_Original                      : 7 channels
+Channel layout                           : C L R Ls Rs LFE Cb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Stream size                              : 3.01 GiB (14%)
+Title                                    : DTS-HD 5.1
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 46 min
+Bit rate                                 : 29.4 kb/s
+Count of elements                        : 2266
+Stream size                              : 22.3 MiB (0%)
+Title                                    : English (SDH)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 40 min
+Bit rate                                 : 26.6 kb/s
+Count of elements                        : 1824
+Stream size                              : 19.1 MiB (0%)
+Title                                    : French
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 40 min
+Bit rate                                 : 24.6 kb/s
+Count of elements                        : 1924
+Stream size                              : 17.7 MiB (0%)
+Title                                    : Spanish
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Dreamers
+00:04:24.889                             : en:Miss Kingsleigh Is Distracted
+00:10:36.886                             : en:Down the Rabbit Hole
+00:18:13.509                             : en:The Wrong Alice
+00:24:44.316                             : en:The Red Queen
+00:28:41.344                             : en:Cheshire, The Hare and the Hatter
+00:36:51.125                             : en:"I Make The Path"
+00:46:15.731                             : en:Um from Umbradge
+00:52:44.786                             : en:Freeing the Vorpal Sword
+01:04:05.049                             : en:Escape to Marmoreal
+01:10:02.198                             : en:Mutiny
+01:15:36.490                             : en:The White Queen's Champion
+01:23:39.264                             : en:Frabjous Day
+01:34:12.688                             : en:Returning Home
+01:36:58.354                             : en:Alice's Decision
+01:40:12.131                             : en:End Credits
