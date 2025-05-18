@@ -1,0 +1,114 @@
+General
+Unique ID                                : 224045034722837980218846267656416672269 (0xA88D810E6D7D79B8A204D2FC22463A0D)
+Complete name                            : Hachi.A.Dog's.Tale.2009.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 17.4 GiB
+Duration                                 : 1 h 33 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 26.6 Mb/s
+Movie name                               : Hachi: A Dog's Tale
+Encoded date                             : UTC 2017-06-11 18:58:18
+Writing application                      : mkvmerge v12.0.0 ('Trust / Lust') 64bit
+Writing library                          : libebml v1.3.4 + libmatroska v1.4.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Format settings, GOP                     : M=1, N=10
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 33 min
+Bit rate mode                            : Variable
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 33 min
+Bit rate mode                            : Variable
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Title                                    : DTS-HD MA 5.1
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : English (Forced Only)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : English
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : English (SDH)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:01.  Opening Credits / Mystery Dog
+00:04:32.272                             : en:02.  Lost Puppy
+00:06:15.249                             : en:03.  A Little Surprise
+00:09:17.557                             : en:04.  Temporary Guest
+00:11:54.088                             : en:05.  Puppy Found
+00:15:00.398                             : en:06.  Train to School
+00:18:37.448                             : en:07.  Hachi
+00:21:30.288                             : en:08.  Baseball Game
+00:23:24.402                             : en:09.  Already Taken
+00:26:15.824                             : en:10.  Coming Along
+00:28:31.376                             : en:11.  Gardening
+00:31:10.243                             : en:12.  Train Station
+00:33:17.704                             : en:13.  Meeting Michael
+00:35:33.714                             : en:14.  A Special Bond
+00:40:24.213                             : en:15.  Skunked
+00:47:16.750                             : en:16.  25 Years of Love
+00:49:39.643                             : en:17.  Something's Wrong
+00:51:44.184                             : en:18.  First Fetch
+00:54:15.877                             : en:19.  Sousa
+00:58:41.517                             : en:20.  Not Coming Back
+01:06:06.796                             : en:21.  Still Waiting
+01:12:45.861                             : en:22.  Loyal Dog
+01:18:41.716                             : en:23.  Ten Years Waiting
+01:23:22.789                             : en:24.  Final Stop
+01:27:04.552                             : en:25.  My Hero Hachi
+01:29:02.003                             : en:26.  Closing Credits
