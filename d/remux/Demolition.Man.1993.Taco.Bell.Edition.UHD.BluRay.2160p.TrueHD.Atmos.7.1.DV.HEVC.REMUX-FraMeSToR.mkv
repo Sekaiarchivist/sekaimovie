@@ -1,0 +1,352 @@
+General
+Unique ID                                : 324248838945483781381066296769761556582 (0xF3F00E09B7E54A57B240EA808C58B866)
+Complete name                            : Demolition.Man.1993.Taco.Bell.Edition.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 72.6 GiB
+Duration                                 : 1 h 55 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 90.3 Mb/s
+Frame rate                               : 23.976 FPS
+Encoded date                             : 2024-12-09 05:47:31 UTC
+Writing application                      : mkvmerge v88.0 ('All I Know') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@High
+HDR format                               : Dolby Vision, Version 1.0, Profile 7.6, dvhe.07.06, BL+EL+RPU, Blu-ray compatible / SMPTE ST 2086, Version HDR10, HDR10 compatible
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 1 h 55 min
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 10 bits
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : PQ
+Matrix coefficients                      : BT.2020 non-constant
+Mastering display color primaries        : BT.2020
+Mastering display luminance              : min: 0.0001 cd/m2, max: 1000 cd/m2
+
+Audio #1
+ID                                       : 2
+Format                                   : MLP FBA 16-ch
+Format/Info                              : Meridian Lossless Packing FBA with 16-channel presentation
+Commercial name                          : Dolby TrueHD with Dolby Atmos
+Codec ID                                 : A_TRUEHD
+Duration                                 : 1 h 55 min
+Bit rate mode                            : Variable
+Maximum bit rate                         : 4 197 kb/s
+Channel(s)                               : 8 channels
+Channel layout                           : L R C LFE Ls Rs Lb Rb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 1 200.000 FPS (40 SPF)
+Compression mode                         : Lossless
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Number of dynamic objects                : 15
+Bed channel count                        : 1 channel
+Bed channel configuration                : LFE
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Format settings                          : Dolby Surround EX
+Codec ID                                 : A_AC3
+Duration                                 : 1 h 55 min
+Bit rate mode                            : Constant
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 369 MiB (0%)
+Title                                    : AC-3 5.1-EX
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 55 min
+Bit rate mode                            : Constant
+Bit rate                                 : 255 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 210 MiB (0%)
+Title                                    : Commentary by Director Marco Brambilla/Screenwriter Daniel Waters
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio #4
+ID                                       : 5
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 55 min
+Bit rate mode                            : Constant
+Bit rate                                 : 255 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 210 MiB (0%)
+Title                                    : Commentary by Film Critic Mike White
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio #5
+ID                                       : 6
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 55 min
+Bit rate mode                            : Constant
+Bit rate                                 : 255 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 210 MiB (0%)
+Title                                    : Commentary by Director Marco Brambilla/Producer Joel Silver
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 7
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 8
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : English (SDH)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 9
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : English (SDH BD)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 10
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Chinese (Cantonese)
+Language                                 : Cantonese
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 11
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Chinese (Simplified)
+Language                                 : Chinese (Simplified)
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 12
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Chinese (Traditional)
+Language                                 : Chinese (Traditional)
+Default                                  : No
+Forced                                   : No
+
+Text #7
+ID                                       : 13
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : French (Parisian)
+Language                                 : French (FR)
+Default                                  : No
+Forced                                   : No
+
+Text #8
+ID                                       : 14
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Indonesian
+Language                                 : Indonesian
+Default                                  : No
+Forced                                   : No
+
+Text #9
+ID                                       : 15
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : Japanese
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+
+Text #10
+ID                                       : 16
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Korean
+Language                                 : Korean
+Default                                  : No
+Forced                                   : No
+
+Text #11
+ID                                       : 17
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Malay
+Language                                 : Malay
+Default                                  : No
+Forced                                   : No
+
+Text #12
+ID                                       : 18
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Polish
+Language                                 : Polish
+Default                                  : No
+Forced                                   : No
+
+Text #13
+ID                                       : 19
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : Portuguese (Brazilian)
+Language                                 : Portuguese (BR)
+Default                                  : No
+Forced                                   : No
+
+Text #14
+ID                                       : 20
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Portuguese (Iberian)
+Language                                 : Portuguese (PT)
+Default                                  : No
+Forced                                   : No
+
+Text #15
+ID                                       : 21
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : Spanish (Latin American)
+Language                                 : Spanish (Latin America)
+Default                                  : No
+Forced                                   : No
+
+Text #16
+ID                                       : 22
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Thai
+Language                                 : Thai
+Default                                  : No
+Forced                                   : No
+
+Text #17
+ID                                       : 23
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : Chinese (Commentary #3)
+Language                                 : Chinese (Traditional)
+Default                                  : No
+Forced                                   : No
+
+Text #18
+ID                                       : 24
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : Japanese (Commentary #3)
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Los Angeles 1996: Send In The Maniac
+00:02:50.169                             : en:A Hot Time
+00:07:10.805                             : en:A Cold Sentence (Credits)
+00:11:30.481                             : en:2032: Lenina Lacks Stimulus
+00:16:46.171                             : en:One Parole Hearing = 4 MDKs
+00:22:59.836                             : en:No Respect For The Law
+00:28:39.426                             : en:The Governor's Problem
+00:31:03.945                             : en:Legend Of The Demolition Man
+00:32:43.836                             : en:Wake-Up Call
+00:37:45.513                             : en:"So Much For The Sea Shells."
+00:41:26.734                             : en:Violence In The Hall
+00:47:31.974                             : en:Blast From The Past
+00:51:13.278                             : en:"Don't You Have Someone To Kill?"
+00:54:35.271                             : en:The Chief's Plan; What All Restaurants Are
+00:57:17.976                             : en:Dining With The Governor
+01:00:17.155                             : en:Attack Of The Scraps
+01:03:16.501                             : en:After-Dinner Chats
+01:07:41.891                             : en:21st-Century Sex
+01:14:57.284                             : en:A Gift For Lenina; Phoenix's Programming
+01:17:39.404                             : en:Confronting Cocteau
+01:19:54.289                             : en:Wasteland
+01:24:09.210                             : en:Friendly's Manifesto
+01:27:03.843                             : en:"Let's Bring Back The Good Old Days."
+01:28:04.862                             : en:Unwelcome Guests
+01:30:25.920                             : en:Pedal To The Metal
+01:34:50.267                             : en:Unexpected Allies
+01:37:10.783                             : en:End Of The Cocteau Plan
+01:41:16.862                             : en:CryoPrison Chaos
+01:45:52.137                             : en:"This Is The Best Day Of My Life."
+01:48:42.599                             : en:"I Think I'm Gonna Like The Future;" End Credits
