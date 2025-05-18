@@ -1,0 +1,298 @@
+General
+Unique ID                   : 264824484604289503639618793542425383828 (0xC73B572A64E009D59991A731258E1394)
+Complete name               : Future.Boy.Conan.S01E01.2160p.SDR.UHD.BluRay.REMUX.FLAC2.0.HEVC-Crash.mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 14.1 GiB
+Duration                    : 29 min 6 s
+Overall bit rate mode       : Variable
+Overall bit rate            : 69.4 Mb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : Future Boy Conan - EP01
+Released date               : 1978-04-04
+Encoded date                : 2025-05-14 01:25:09 UTC
+Writing application         : mkvmerge v91.0 ('Signs') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1 + muxtools v0.2.3
+Attachments                 : Arial-Bold.ttf / Arial-BoldItalic.ttf / Espumapro-bold.ttf / VestiteYAndate!.ttf / FaxfontTone-Medium.otf / StopBullying.otf
+IMDB                        : tt0077013
+TMDB                        : tv/19239
+TVDB                        : 80294
+
+Video
+ID                          : 1
+Format                      : HEVC
+Format/Info                 : High Efficiency Video Coding
+Format profile              : Main 10@L5.1@High
+Codec ID                    : V_MPEGH/ISO/HEVC
+Duration                    : 29 min 1 s
+Bit rate                    : 64.5 Mb/s
+Width                       : 2 880 pixels
+Original width              : 3 840 pixels
+Height                      : 2 160 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 23.976 (24000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0 (Type 2)
+Bit depth                   : 10 bits
+Bits/(Pixel*Frame)          : 0.432
+Stream size                 : 13.1 GiB (93%)
+Title                       : 2023 Dynit UHD Remux
+Writing library             : ATEME Titan File 3.9.7 (4.9.7.0)        
+Language                    : zxx
+Default                     : Yes
+Forced                      : No
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio #1
+ID                          : 2
+Format                      : FLAC
+Format/Info                 : Free Lossless Audio Codec
+Codec ID                    : A_FLAC
+Duration                    : 29 min 1 s
+Bit rate mode               : Variable
+Bit rate                    : 1 200 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 11.719 FPS (4096 SPF)
+Bit depth                   : 24 bits
+Compression mode            : Lossless
+Stream size                 : 249 MiB (2%)
+Title                       : Japanese (Mono) [2023 Dynit UHD]
+Writing library             : libFLAC 20230801 (2023-08-01)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+MD5 of the unencoded conten : 375387586A1D52CA26FEC934E7D22D50
+
+Audio #2
+ID                          : 3
+Format                      : FLAC
+Format/Info                 : Free Lossless Audio Codec
+Codec ID                    : A_FLAC
+Duration                    : 29 min 6 s
+Bit rate mode               : Variable
+Bit rate                    : 636 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 11.719 FPS (4096 SPF)
+Bit depth                   : 16 bits
+Compression mode            : Lossless
+Stream size                 : 132 MiB (1%)
+Title                       : English (Mono) [2022 Anime Ltd. UHD]
+Writing library             : libFLAC 20230801 (2023-08-01)
+Language                    : English
+Default                     : Yes
+Forced                      : No
+MD5 of the unencoded conten : E96A3D1EAA9EE95DDD9A16D2889606F6
+
+Audio #3
+ID                          : 4
+Format                      : FLAC
+Format/Info                 : Free Lossless Audio Codec
+Codec ID                    : A_FLAC
+Duration                    : 29 min 1 s
+Bit rate mode               : Variable
+Bit rate                    : 305 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 11.719 FPS (4096 SPF)
+Bit depth                   : 16 bits
+Compression mode            : Lossless
+Stream size                 : 63.4 MiB (0%)
+Title                       : Music & Effects (Mono) [2008 EMOTION DVD]
+Writing library             : libFLAC 20230801 (2023-08-01)
+Language                    : zxx
+Default                     : No
+Forced                      : No
+MD5 of the unencoded conten : 1A64A4EB4C6B1AF5EEC4A88FAC79ED8C
+
+Text #1
+ID                          : 5
+Format                      : ASS
+Codec ID                    : S_TEXT/ASS
+Codec ID/Info               : Advanced Sub Station Alpha
+Duration                    : 28 min 52 s
+Bit rate                    : 175 b/s
+Frame rate                  : 0.149 FPS
+Count of elements           : 258
+Compression mode            : Lossless
+Stream size                 : 37.1 KiB (0%)
+Title                       : English Subtitles [Crash]
+Language                    : English
+Default                     : Yes
+Forced                      : No
+
+Text #2
+ID                          : 6
+Format                      : PGS
+Muxing mode                 : zlib
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 28 min 39 s
+Bit rate                    : 17.4 kb/s
+Frame rate                  : 0.281 FPS
+Count of elements           : 484
+Stream size                 : 3.56 MiB (0%)
+Title                       : English Subtitles [2022 Anime Ltd. UHD]
+Language                    : English
+Default                     : Yes
+Forced                      : No
+
+Text #3
+ID                          : 7
+Format                      : ASS
+Codec ID                    : S_TEXT/ASS
+Codec ID/Info               : Advanced Sub Station Alpha
+Duration                    : 28 min 52 s
+Bit rate                    : 111 b/s
+Frame rate                  : 0.021 FPS
+Count of elements           : 37
+Compression mode            : Lossless
+Stream size                 : 23.6 KiB (0%)
+Title                       : English Signs and Songs [Crash]
+Language                    : English
+Default                     : No
+Forced                      : Yes
+
+Text #4
+ID                          : 8
+Format                      : ASS
+Codec ID                    : S_TEXT/ASS
+Codec ID/Info               : Advanced Sub Station Alpha
+Duration                    : 28 min 52 s
+Bit rate                    : 185 b/s
+Frame rate                  : 0.171 FPS
+Count of elements           : 297
+Compression mode            : Lossless
+Stream size                 : 39.1 KiB (0%)
+Title                       : English Dubtitles [Crash]
+Language                    : English
+Default                     : No
+Forced                      : No
+
+Text #5
+ID                          : 9
+Format                      : PGS
+Muxing mode                 : zlib
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 28 min 52 s
+Bit rate                    : 15.5 kb/s
+Frame rate                  : 0.266 FPS
+Count of elements           : 461
+Stream size                 : 3.21 MiB (0%)
+Title                       : French Subtitles [2022 Anime Ltd. UHD]
+Language                    : French
+Default                     : Yes
+Forced                      : No
+
+Text #6
+ID                          : 10
+Format                      : PGS
+Muxing mode                 : zlib
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 25 min 48 s
+Bit rate                    : 23.9 kb/s
+Frame rate                  : 0.247 FPS
+Count of elements           : 382
+Stream size                 : 4.42 MiB (0%)
+Title                       : Italian Subtitles [2023 Dynit UHD]
+Language                    : Italian
+Default                     : Yes
+Forced                      : No
+
+Text #7
+ID                          : 11
+Format                      : PGS
+Muxing mode                 : zlib
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 28 min 39 s
+Bit rate                    : 22.5 kb/s
+Frame rate                  : 0.271 FPS
+Count of elements           : 466
+Stream size                 : 4.61 MiB (0%)
+Title                       : German Subtitles [2023 Polyband DEBD]
+Language                    : German
+Default                     : Yes
+Forced                      : No
+
+Text #8
+ID                          : 12
+Format                      : PGS
+Muxing mode                 : zlib
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 28 min 50 s
+Bit rate                    : 21.6 kb/s
+Frame rate                  : 0.293 FPS
+Count of elements           : 507
+Stream size                 : 4.46 MiB (0%)
+Title                       : Spanish (Castellano) Subtitles [2022 Selecta Visión BD]
+Language                    : Spanish (ES)
+Default                     : Yes
+Forced                      : No
+
+Text #9
+ID                          : 13
+Format                      : PGS
+Muxing mode                 : zlib
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 25 min 48 s
+Bit rate                    : 22.9 kb/s
+Frame rate                  : 0.333 FPS
+Count of elements           : 516
+Stream size                 : 4.22 MiB (0%)
+Title                       : Japanese Subtitles [2011 Honneamise BD]
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+
+Text #10
+ID                          : 14
+Format                      : PGS
+Muxing mode                 : zlib
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 27 min 41 s
+Bit rate                    : 2 255 kb/s
+Frame rate                  : 1.483 FPS
+Count of elements           : 2465
+Stream size                 : 447 MiB (3%)
+Title                       : Storyboards (Left Side) [2011 Honneamise BD]
+Language                    : zxx
+Default                     : No
+Forced                      : No
+
+Text #11
+ID                          : 15
+Format                      : PGS
+Muxing mode                 : zlib
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 27 min 41 s
+Bit rate                    : 2 255 kb/s
+Frame rate                  : 1.483 FPS
+Count of elements           : 2465
+Stream size                 : 447 MiB (3%)
+Title                       : Storyboards (Right Side) [2011 Honneamise BD]
+Language                    : zxx
+Default                     : No
+Forced                      : No
+
+Menu
+00:00:00.000                : en:Opening
+00:01:20.080                : en:Prologue
+00:02:40.160                : en:Part A
+00:15:03.903                : en:Eyecatch
+00:15:23.923                : en:Part B
+00:27:41.660                : en:Ending
