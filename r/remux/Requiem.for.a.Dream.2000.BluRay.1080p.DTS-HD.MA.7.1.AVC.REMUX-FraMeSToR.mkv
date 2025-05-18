@@ -1,0 +1,153 @@
+General
+Unique ID                                : 63245675680798484866994867960199279852 (0x2F94AC8F807D042E18B415A58AE074EC)
+Complete name                            : Requiem.for.a.Dream.2000.BluRay.1080p.DTS-HD.MA.7.1.AVC.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 28.5 GiB
+Duration                                 : 1 h 41 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 40.2 Mb/s
+Movie name                               : Requiem for a Dream (2000)
+Encoded date                             : UTC 2018-08-11 12:21:05
+Writing application                      : mkvmerge v25.0.0 ('Prog Noir') 64-bit
+Writing library                          : libebml v1.3.6 + libmatroska v1.4.9
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, GOP                     : M=3, N=12
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 41 min
+Bit rate mode                            : Variable
+Maximum bit rate                         : 37.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 41 min
+Bit rate mode                            : Variable
+Channel(s)                               : 8 channels
+Channel layout                           : C L R LFE Lb Rb Lss Rss
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Title                                    : DTS-HD MA 7.1
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 1 h 41 min
+Bit rate mode                            : Constant
+Bit rate                                 : 224 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 163 MiB (1%)
+Title                                    : Commentary by Director/co-writer Darren Aronofsky
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 1 h 41 min
+Bit rate mode                            : Constant
+Bit rate                                 : 224 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 163 MiB (1%)
+Title                                    : Commentary by Cinematographer Matthew Libatique
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : English
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 6
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : English (SDH)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 7
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Title                                    : Spanish (Latin America)
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Credits
+00:00:00.792                             : en:Summer
+00:00:30.572                             : en:Only Child
+00:05:32.207                             : en:What's the Catch?
+00:09:08.423                             : en:The Most Beautiful Girl
+00:14:02.675                             : en:The Mailman
+00:19:02.850                             : en:Naturally
+00:23:36.832                             : en:Purple in the Morning
+00:27:35.112                             : en:A Specialist
+00:29:48.745                             : en:Fall
+00:32:48.758                             : en:Arnold
+00:37:18.695                             : en:Shopping
+00:49:26.005                             : en:Refridgerator
+00:56:26.425                             : en:Winter
+01:06:07.213                             : en:Little John
+01:13:25.985                             : en:Treatment
+01:21:03.025                             : en:Requiem for a Dream
+01:29:19.354                             : en:End Credits
