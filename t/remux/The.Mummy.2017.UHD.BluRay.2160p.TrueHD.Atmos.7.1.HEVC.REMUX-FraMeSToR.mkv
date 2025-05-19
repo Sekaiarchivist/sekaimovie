@@ -1,0 +1,174 @@
+General
+Unique ID                                : 211193852001005204914799965018461544042 (0x9EE274D44418F476AD38E0433DAB9E6A)
+Complete name                            : The.Mummy.2017.UHD.BluRay.2160p.TrueHD.Atmos.7.1.HEVC.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 54.6 GiB
+Duration                                 : 1 h 50 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 71.0 Mb/s
+Movie name                               : The Mummy 4K (2017)
+Encoded date                             : UTC 2017-10-26 19:48:04
+Writing application                      : mkvmerge v17.0.0 ('Be Ur Friend') 64-bit
+Writing library                          : libebml v1.3.5 + libmatroska v1.4.8
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@High
+HDR format                               : SMPTE ST 2086, HDR10 compatible
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 1 h 50 min
+Bit rate                                 : 65.1 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.327
+Stream size                              : 50.0 GiB (92%)
+Writing library                          : ATEME Titan File 3.8.3 (4.8.3.0)        
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : PQ
+Matrix coefficients                      : BT.2020 non-constant
+Mastering display color primaries        : Display P3
+Mastering display luminance              : min: 0.0050 cd/m2, max: 1000 cd/m2
+Maximum Content Light Level              : 1000 cd/m2
+Maximum Frame-Average Light Level        : 343 cd/m2
+
+Audio #1
+ID                                       : 2
+Format                                   : MLP FBA 16-ch
+Format/Info                              : Meridian Lossless Packing FBA with 16-channel presentation
+Commercial name                          : Dolby TrueHD with Dolby Atmos
+Codec ID                                 : A_TRUEHD
+Duration                                 : 1 h 50 min
+Bit rate mode                            : Variable
+Bit rate                                 : 4 927 kb/s
+Maximum bit rate                         : 8 133 kb/s
+Channel(s)                               : 8 channels
+Channel layout                           : L R C LFE Ls Rs Lb Rb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 1 200.000 FPS (40 SPF)
+Compression mode                         : Lossless
+Stream size                              : 3.79 GiB (7%)
+Title                                    : TrueHD Atmos 7.1
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Number of dynamic objects                : 11
+Bed channel count                        : 1 channel
+Bed channel configuration                : LFE
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 1 h 50 min
+Bit rate mode                            : Constant
+Bit rate                                 : 640 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 504 MiB (1%)
+Title                                    : AC-3 5.1
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 1 h 50 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 151 MiB (0%)
+Title                                    : Commentary by Alex Kurtzman, Sofia Boutella, Annabelle Wallis and Jake Johnson
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 37 min
+Bit rate                                 : 34.8 kb/s
+Count of elements                        : 2716
+Stream size                              : 24.3 MiB (0%)
+Title                                    : English (SDH)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 6
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 49 min
+Bit rate                                 : 23.7 kb/s
+Count of elements                        : 2182
+Stream size                              : 18.5 MiB (0%)
+Title                                    : Spanish (Latin American)
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 7
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 49 min
+Bit rate                                 : 24.4 kb/s
+Count of elements                        : 2158
+Stream size                              : 19.0 MiB (0%)
+Title                                    : French
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Chapter 1
+00:08:18.707                             : en:Chapter 2
+00:13:18.923                             : en:Chapter 3
+00:19:31.462                             : en:Chapter 4
+00:24:40.145                             : en:Chapter 5
+00:28:54.107                             : en:Chapter 6
+00:35:41.389                             : en:Chapter 7
+00:39:36.040                             : en:Chapter 8
+00:47:00.067                             : en:Chapter 9
+00:50:57.638                             : en:Chapter 10
+00:56:49.740                             : en:Chapter 11
+01:00:43.849                             : en:Chapter 12
+01:08:58.009                             : en:Chapter 13
+01:16:03.851                             : en:Chapter 14
+01:19:38.440                             : en:Chapter 15
+01:23:16.408                             : en:Chapter 16
+01:26:26.848                             : en:Chapter 17
+01:33:34.943                             : en:Chapter 18
+01:37:02.984                             : en:Chapter 19
+01:39:47.982                             : en:Chapter 20
