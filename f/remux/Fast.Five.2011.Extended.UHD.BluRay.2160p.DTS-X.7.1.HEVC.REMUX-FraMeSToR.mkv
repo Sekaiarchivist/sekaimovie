@@ -1,0 +1,165 @@
+General
+Unique ID                                : 109205059796995351435314265583348990601 (0x522821253800A18060C8E73C9BF1C289)
+Complete name                            : Fast.Five.2011.Extended.UHD.BluRay.2160p.DTS-X.7.1.HEVC.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 48.9 GiB
+Duration                                 : 2 h 11 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 53.3 Mb/s
+Movie name                               : Fast Five Extended 4K
+Encoded date                             : UTC 2019-06-02 15:15:36
+Writing application                      : mkvmerge v34.0.0 ('Sight and Seen') 64-bit
+Writing library                          : libebml v1.3.7 + libmatroska v1.5.0
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@High
+HDR format                               : SMPTE ST 2086, HDR10 compatible
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 2 h 11 min
+Bit rate                                 : 48.8 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.245
+Stream size                              : 44.8 GiB (92%)
+Writing library                          : ATEME Titan File 3.9.0 (4.9.0.0)        
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : PQ
+Matrix coefficients                      : BT.2020 non-constant
+Mastering display color primaries        : Display P3
+Mastering display luminance              : min: 0.0050 cd/m2, max: 1000 cd/m2
+Maximum Content Light Level              : 997 cd/m2
+Maximum Frame-Average Light Level        : 344 cd/m2
+
+Audio #1
+ID                                       : 2
+Format                                   : DTS XLL X
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 2 h 11 min
+Bit rate mode                            : Variable
+Bit rate                                 : 4 119 kb/s
+Channel(s)                               : 8 channels
+Channel(s)_Original                      : Object Based
+Channel layout                           : Object Based
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Stream size                              : 3.79 GiB (8%)
+Title                                    : DTS:X 7.1
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 11 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 181 MiB (0%)
+Title                                    : Commentary by Director Justin Lin
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 4
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 4 min
+Bit rate                                 : 27.8 kb/s
+Count of elements                        : 2546
+Stream size                              : 24.8 MiB (0%)
+Title                                    : English (SDH)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 5 min
+Bit rate                                 : 27.2 kb/s
+Count of elements                        : 2536
+Stream size                              : 24.4 MiB (0%)
+Title                                    : French
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 6
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 5 min
+Bit rate                                 : 23.3 kb/s
+Count of elements                        : 2542
+Stream size                              : 20.9 MiB (0%)
+Title                                    : Spanish (Latin American)
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 7
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 5 min
+Bit rate                                 : 73.0 kb/s
+Count of elements                        : 4566
+Stream size                              : 65.8 MiB (0%)
+Title                                    : English (Commentary)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Chapter 01
+00:07:45.673                             : en:Chapter 02
+00:17:29.423                             : en:Chapter 03
+00:23:01.797                             : en:Chapter 04
+00:28:21.533                             : en:Chapter 05
+00:35:05.144                             : en:Chapter 06
+00:40:55.661                             : en:Chapter 07
+00:48:51.261                             : en:Chapter 08
+00:55:29.993                             : en:Chapter 09
+01:04:07.552                             : en:Chapter 10
+01:11:41.964                             : en:Chapter 11
+01:19:23.467                             : en:Chapter 12
+01:23:33.800                             : en:Chapter 13
+01:28:56.331                             : en:Chapter 14
+01:32:57.154                             : en:Chapter 15
+01:40:27.104                             : en:Chapter 16
+01:48:14.488                             : en:Chapter 17
+01:56:03.915                             : en:Chapter 18
+02:00:29.013                             : en:Chapter 19
+02:04:38.179                             : en:Chapter 20
