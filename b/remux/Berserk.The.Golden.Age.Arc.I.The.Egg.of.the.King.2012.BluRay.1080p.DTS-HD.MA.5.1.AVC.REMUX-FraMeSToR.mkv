@@ -1,0 +1,209 @@
+General
+Unique ID                                : 312361800084490273334939025485941622930 (0xEAFEB1C5F0170938E8C1D08F63AEC892)
+Complete name                            : Berserk.The.Golden.Age.Arc.I.The.Egg.of.the.King.2012.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 21.1 GiB
+Duration                                 : 1 h 16 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 39.3 Mb/s
+Movie name                               : Berserk: The Golden Age Arc I - The Egg of the King (2012)
+Encoded date                             : UTC 2022-10-27 02:50:36
+Writing application                      : mkvmerge v71.1.0 ('Fortitude') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1
+IMDB                                     : tt2210479
+TMDB                                     : movie/113082
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, GOP                     : M=3, N=12
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 16 min
+Bit rate mode                            : Variable
+Bit rate                                 : 33.8 Mb/s
+Maximum bit rate                         : 36.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.679
+Stream size                              : 18.1 GiB (86%)
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 16 min
+Bit rate mode                            : Variable
+Bit rate                                 : 2 911 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Stream size                              : 1.56 GiB (7%)
+Title                                    : DTS-HD MA 5.1
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 16 min
+Bit rate mode                            : Variable
+Bit rate                                 : 2 104 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 16 s 225 ms
+Stream size                              : 1.13 GiB (5%)
+Title                                    : DTS-HD MA 5.1
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 1 h 16 min
+Bit rate mode                            : Constant
+Bit rate                                 : 384 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 211 MiB (1%)
+Title                                    : Commentary by Cast and Staff
+Language                                 : Japanese
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 10 min
+Bit rate                                 : 19.6 kb/s
+Frame rate                               : 0.329 FPS
+Count of elements                        : 1386
+Stream size                              : 9.83 MiB (0%)
+Title                                    : English
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 6
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 10 min
+Bit rate                                 : 28.0 kb/s
+Frame rate                               : 0.319 FPS
+Count of elements                        : 1344
+Stream size                              : 14.1 MiB (0%)
+Title                                    : Dutch
+Language                                 : Dutch
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 7
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 10 min
+Bit rate                                 : 28.1 kb/s
+Frame rate                               : 0.324 FPS
+Count of elements                        : 1365
+Stream size                              : 14.1 MiB (0%)
+Title                                    : French (Parisian)
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 8
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 10 min
+Bit rate                                 : 29.4 kb/s
+Frame rate                               : 0.284 FPS
+Count of elements                        : 1198
+Stream size                              : 14.8 MiB (0%)
+Title                                    : Italian
+Language                                 : Italian
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 9
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 10 min
+Bit rate                                 : 62.6 kb/s
+Frame rate                               : 0.524 FPS
+Count of elements                        : 2210
+Stream size                              : 31.5 MiB (0%)
+Title                                    : Japanese
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 10
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 10 min
+Bit rate                                 : 32.1 kb/s
+Frame rate                               : 0.312 FPS
+Count of elements                        : 1314
+Stream size                              : 16.1 MiB (0%)
+Title                                    : Spanish (Castilian)
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:The Mercenary
+00:07:58.478                             : en:Band of the Hawk
+00:17:28.047                             : en:Griffith
+00:27:23.308                             : en:War against Tudor
+00:34:33.697                             : en:God of the Battlefield
+00:44:32.670                             : en:The High King's Egg
+00:50:48.796                             : en:Assassin
+01:02:50.225                             : en:Exalted Ideal
+01:11:08.723                             : en:The Doldrey War
+01:12:11.619                             : en:Ending
