@@ -1,0 +1,129 @@
+General
+Unique ID                                : 220088738084481042525687008519704724739 (0xA5938C9277E7E648B6F8E874C5FEC503)
+Complete name                            : I.Want.to.Eat.Your.Pancreas.2018.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 29.2 GiB
+Duration                                 : 1 h 48 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 38.6 Mb/s
+Movie name                               : I Want to Eat Your Pancreas (2018)
+Encoded date                             : UTC 2020-01-13 19:21:05
+Writing application                      : mkvmerge v42.0.0 ('Overtime') 64-bit
+Writing library                          : libebml v1.3.10 + libmatroska v1.5.2
+IMDB                                     : tt7236034
+TMDB                                     : movie/504253
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 48 min
+Bit rate mode                            : Variable
+Bit rate                                 : 31.5 Mb/s
+Maximum bit rate                         : 33.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.634
+Stream size                              : 23.9 GiB (82%)
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 48 min
+Bit rate mode                            : Variable
+Bit rate                                 : 3 433 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Stream size                              : 2.60 GiB (9%)
+Title                                    : DTS-HD MA 5.1
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 48 min
+Bit rate mode                            : Variable
+Bit rate                                 : 3 598 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Stream size                              : 2.72 GiB (9%)
+Title                                    : DTS-HD MA 5.1
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 4
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 47 min
+Bit rate                                 : 31.7 kb/s
+Count of elements                        : 2576
+Stream size                              : 24.4 MiB (0%)
+Title                                    : English
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 44 min
+Bit rate                                 : 2 747 b/s
+Count of elements                        : 207
+Stream size                              : 2.05 MiB (0%)
+Title                                    : English (Foreign)
+Language                                 : English
+Default                                  : No
+Forced                                   : Yes
+
+Menu
+00:00:00.000                             : en:Chapter 01
+00:04:44.451                             : en:Chapter 02
+00:09:26.316                             : en:Chapter 03
+00:19:27.208                             : en:Chapter 04
+00:25:22.312                             : en:Chapter 05
+00:30:12.227                             : en:Chapter 06
+00:46:56.897                             : en:Chapter 07
+01:01:06.037                             : en:Chapter 08
+01:09:08.019                             : en:Chapter 09
+01:13:38.914                             : en:Chapter 10
+01:20:15.686                             : en:Chapter 11
+01:27:23.780                             : en:Chapter 12
+01:36:41.379                             : en:Chapter 13
+01:41:15.820                             : en:Chapter 14
+01:45:46.131                             : en:Chapter 15
