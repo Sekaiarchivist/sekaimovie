@@ -1,0 +1,199 @@
+General
+Unique ID                                : 196328940679011291705995516880314112685 (0x93B3941DD78F97E930CB6AF4504B1AAD)
+Complete name                            : Bleach.the.Movie.2.The.Diamond.Dust.Rebellion.2007.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 8.44 GiB
+Duration                                 : 1 h 32 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 13.0 Mb/s
+Movie name                               : Bleach the Movie 2: The Diamond Dust Rebellion (2007)
+Encoded date                             : UTC 2022-03-25 06:01:23
+Writing application                      : mkvmerge v66.0.0 ('Josie') 64-bit
+Writing library                          : libebml v1.4.2 + libmatroska v1.6.4
+IMDB                                     : tt1148261
+TMDB                                     : movie/17101
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 3 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 3 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 32 min
+Bit rate mode                            : Variable
+Bit rate                                 : 8 740 kb/s
+Maximum bit rate                         : 35.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.176
+Stream size                              : 5.66 GiB (67%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 32 min
+Bit rate mode                            : Variable
+Bit rate                                 : 2 084 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Stream size                              : 1.35 GiB (16%)
+Title                                    : DTS-HD MA 5.1
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : DTS XBR
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD High Resolution Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 32 min
+Bit rate mode                            : Constant
+Bit rate                                 : 2 046 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 1.33 GiB (16%)
+Title                                    : DTS-HD HRA 5.1
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 4
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 30 min
+Bit rate                                 : 26.3 kb/s
+Count of elements                        : 2022
+Stream size                              : 17.1 MiB (0%)
+Title                                    : English
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 10 min 16 s
+Bit rate                                 : 1 106 b/s
+Count of elements                        : 8
+Stream size                              : 83.3 KiB (0%)
+Title                                    : English (Foreign)
+Language                                 : English
+Default                                  : No
+Forced                                   : Yes
+
+Text #3
+ID                                       : 6
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 31 min
+Bit rate                                 : 25.0 kb/s
+Count of elements                        : 1854
+Stream size                              : 16.3 MiB (0%)
+Title                                    : Dutch
+Language                                 : Dutch
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 7
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 31 min
+Bit rate                                 : 24.0 kb/s
+Count of elements                        : 1854
+Stream size                              : 15.6 MiB (0%)
+Title                                    : French
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 8
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 31 min
+Bit rate                                 : 27.8 kb/s
+Count of elements                        : 1888
+Stream size                              : 18.1 MiB (0%)
+Title                                    : German
+Language                                 : German
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 9
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 31 min
+Bit rate                                 : 24.6 kb/s
+Count of elements                        : 1854
+Stream size                              : 16.0 MiB (0%)
+Title                                    : Italian
+Language                                 : Italian
+Default                                  : No
+Forced                                   : No
+
+Text #7
+ID                                       : 10
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 31 min
+Bit rate                                 : 24.6 kb/s
+Count of elements                        : 1888
+Stream size                              : 16.0 MiB (0%)
+Title                                    : Polish
+Language                                 : Polish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Chapter 1
+00:05:46.638                             : en:Chapter 2
+00:13:48.536                             : en:Chapter 3
+00:24:26.965                             : en:Chapter 4
+00:35:20.160                             : en:Chapter 5
+00:46:24.281                             : en:Chapter 6
+00:53:55.149                             : en:Chapter 7
+01:02:21.112                             : en:Chapter 8
+01:13:46.839                             : en:Chapter 9
+01:27:42.632                             : en:Chapter 10
