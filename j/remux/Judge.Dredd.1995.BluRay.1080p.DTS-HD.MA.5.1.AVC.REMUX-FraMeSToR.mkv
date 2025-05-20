@@ -1,0 +1,193 @@
+General
+Unique ID                                : 288635715867382486694152051500104905515 (0xD925378192771852C127BC9FC629732B)
+Complete name                            : Judge.Dredd.1995.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 22.7 GiB
+Duration                                 : 1 h 36 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 33.8 Mb/s
+Movie name                               : Judge Dredd (1995)
+Encoded date                             : UTC 2022-08-14 09:49:11
+Writing application                      : mkvmerge v70.0.0 ('Caught A Lite Sneeze') 64-bit
+Writing library                          : libebml v1.4.2 + libmatroska v1.6.4
+IMDB                                     : tt0113492
+TMDB                                     : movie/9482
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, GOP                     : M=3, N=24
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 36 min
+Bit rate mode                            : Variable
+Bit rate                                 : 28.6 Mb/s
+Maximum bit rate                         : 36.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.576
+Stream size                              : 19.2 GiB (85%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 36 min
+Bit rate mode                            : Variable
+Bit rate                                 : 4 925 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Stream size                              : 3.31 GiB (15%)
+Title                                    : DTS-HD MA 5.1
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 26 min
+Bit rate                                 : 31.4 kb/s
+Frame rate                               : 0.299 FPS
+Count of elements                        : 1552
+Stream size                              : 19.4 MiB (0%)
+Title                                    : English
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 34 min
+Bit rate                                 : 38.8 kb/s
+Frame rate                               : 0.468 FPS
+Count of elements                        : 2650
+Stream size                              : 26.2 MiB (0%)
+Title                                    : English (SDH)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 34 min
+Bit rate                                 : 36.7 kb/s
+Frame rate                               : 0.414 FPS
+Count of elements                        : 2346
+Stream size                              : 24.8 MiB (0%)
+Title                                    : French
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 6
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 28 min
+Bit rate                                 : 36.7 kb/s
+Frame rate                               : 0.377 FPS
+Count of elements                        : 1998
+Stream size                              : 23.2 MiB (0%)
+Title                                    : German
+Language                                 : German
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 7
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 28 min
+Bit rate                                 : 33.9 kb/s
+Frame rate                               : 0.392 FPS
+Count of elements                        : 2082
+Stream size                              : 21.4 MiB (0%)
+Title                                    : Portuguese (Brazilian)
+Language                                 : Portuguese
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 8
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 28 min
+Bit rate                                 : 33.3 kb/s
+Frame rate                               : 0.466 FPS
+Count of elements                        : 2474
+Stream size                              : 21.1 MiB (0%)
+Title                                    : Spanish (Castilian)
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Text #7
+ID                                       : 9
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 28 min
+Bit rate                                 : 30.7 kb/s
+Frame rate                               : 0.418 FPS
+Count of elements                        : 2218
+Stream size                              : 19.4 MiB (0%)
+Title                                    : Spanish (Latin American)
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Program Start
+00:00:37.037                             : en:Credits / New World Order
+00:06:11.705                             : en:Block War
+00:15:59.834                             : en:New Assignment
+00:25:25.315                             : en:Lazarus
+00:31:53.662                             : en:The Trial
+00:43:57.593                             : en:Poetic Justice
+00:48:17.061                             : en:The Angel Family
+00:56:21.920                             : en:Project Janus
+01:05:21.459                             : en:Through The Incinerator
+01:09:03.765                             : en:Deadly Politics
+01:10:56.461                             : en:In Hot Pursuit
+01:14:02.980                             : en:A Friend
+01:17:25.891                             : en:New Janus Judges
+01:20:28.866                             : en:Blood And Betrayal
+01:26:01.156                             : en:Brother Against Brother
+01:30:20.707                             : en:End Credits
