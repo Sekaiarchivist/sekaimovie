@@ -1,0 +1,217 @@
+General
+Unique ID                                : 133438867763780675500546627915012959660 (0x6463642040BA8EAFE0E3CB1EFDD8EDAC)
+Complete name                            : Nosferatu.2024.Extended.Cut.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 64.1 GiB
+Duration                                 : 2 h 15 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 67.5 Mb/s
+Frame rate                               : 23.976 FPS
+Movie name                               : Nosferatu (2024) Extended Cut
+Encoded date                             : 2025-02-13 06:18:20 UTC
+Writing application                      : mkvmerge v90.0 ('Hanging On') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+IMDB                                     : tt5040012
+TMDB                                     : movie/426063
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@High
+HDR format                               : Dolby Vision, Version 1.0, Profile 7.6, dvhe.07.06, BL+EL+RPU, no metadata compression, Blu-ray compatible / SMPTE ST 2086, Version HDR10, HDR10 compatible
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 2 h 15 min
+Bit rate                                 : 63.7 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.320
+Stream size                              : 60.5 GiB (94%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : PQ
+Matrix coefficients                      : BT.2020 non-constant
+Mastering display color primaries        : Display P3
+Mastering display luminance              : min: 0.0001 cd/m2, max: 1000 cd/m2
+Maximum Content Light Level              : 189 cd/m2
+Maximum Frame-Average Light Level        : 45 cd/m2
+
+Audio #1
+ID                                       : 2
+Format                                   : MLP FBA 16-ch
+Format/Info                              : Meridian Lossless Packing FBA with 16-channel presentation
+Commercial name                          : Dolby TrueHD with Dolby Atmos
+Codec ID                                 : A_TRUEHD
+Duration                                 : 2 h 15 min
+Bit rate mode                            : Variable
+Bit rate                                 : 3 019 kb/s
+Maximum bit rate                         : 5 004 kb/s
+Channel(s)                               : 8 channels
+Channel layout                           : L R C LFE Ls Rs Lb Rb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 1 200.000 FPS (40 SPF)
+Compression mode                         : Lossless
+Stream size                              : 2.87 GiB (4%)
+Title                                    : TrueHD Atmos 7.1
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Number of dynamic objects                : 11
+Bed channel count                        : 1 channel
+Bed channel configuration                : LFE
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 15 min
+Bit rate mode                            : Constant
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 436 MiB (1%)
+Title                                    : AC-3 5.1
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+compr                                    : 5.74 dB
+dynrng                                   : 5.60 dB
+cmixlev                                  : -3.0 dB
+surmixlev                                : -3 dB
+dmixmod                                  : Lt/Rt
+ltrtcmixlev                              : -3.0 dB
+ltrtsurmixlev                            : -3.0 dB
+lorocmixlev                              : -3.0 dB
+lorosurmixlev                            : -3.0 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Audio #3
+ID                                       : 4
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 15 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 187 MiB (0%)
+Title                                    : Commentary by Writer/Director Robert Eggers
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+Dialog Normalization                     : -27 dB
+compr                                    : 5.74 dB
+dynrng                                   : 5.60 dB
+ltrtcmixlev                              : -3.0 dB
+ltrtsurmixlev                            : -3.0 dB
+lorocmixlev                              : -3.0 dB
+lorosurmixlev                            : -3.0 dB
+dialnorm_Average                         : -27 dB
+dialnorm_Minimum                         : -27 dB
+dialnorm_Maximum                         : -27 dB
+
+Text #1
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 7 min
+Bit rate                                 : 41 b/s
+Frame rate                               : 0.184 FPS
+Count of elements                        : 1410
+Stream size                              : 38.6 KiB (0%)
+Title                                    : English
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 6
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 15 min
+Bit rate                                 : 29.4 kb/s
+Frame rate                               : 0.470 FPS
+Count of elements                        : 3830
+Stream size                              : 28.6 MiB (0%)
+Title                                    : English (SDH)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 7
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 15 min
+Bit rate                                 : 18.6 kb/s
+Frame rate                               : 0.365 FPS
+Count of elements                        : 2962
+Stream size                              : 18.0 MiB (0%)
+Title                                    : French (Canadian)
+Language                                 : French (CA)
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 8
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 15 min
+Bit rate                                 : 19.9 kb/s
+Frame rate                               : 0.351 FPS
+Count of elements                        : 2850
+Stream size                              : 19.2 MiB (0%)
+Title                                    : Spanish (Latin American)
+Language                                 : Spanish (Latin America)
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Chapter 1
+00:08:59.205                             : en:Chapter 2
+00:15:39.730                             : en:Chapter 3
+00:23:36.623                             : en:Chapter 4
+00:34:56.761                             : en:Chapter 5
+00:42:23.833                             : en:Chapter 6
+00:52:28.687                             : en:Chapter 7
+00:57:27.319                             : en:Chapter 8
+01:00:47.352                             : en:Chapter 9
+01:05:28.216                             : en:Chapter 10
+01:14:46.774                             : en:Chapter 11
+01:19:16.502                             : en:Chapter 12
+01:27:50.181                             : en:Chapter 13
+01:36:45.341                             : en:Chapter 14
+01:41:18.114                             : en:Chapter 15
+01:47:01.039                             : en:Chapter 16
+01:53:22.712                             : en:Chapter 17
+01:57:58.113                             : en:Chapter 18
+02:01:07.927                             : en:Chapter 19
+02:09:11.160                             : en:Chapter 20
