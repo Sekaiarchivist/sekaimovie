@@ -1,0 +1,250 @@
+General
+Unique ID                                : 161191761915960230798904860401048908373 (0x7944677381D1C815AC5E61329D4E7255)
+Complete name                            : Cold.Pursuit.2019.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 62.0 GiB
+Duration                                 : 1 h 59 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 74.6 Mb/s
+Movie name                               : Cold Pursuit (2019)
+Encoded date                             : UTC 2021-03-10 22:47:25
+Writing application                      : mkvmerge v55.0.0 ('Waiting For Space') 64-bit
+Writing library                          : libebml v1.4.2 + libmatroska v1.6.4
+IMDB                                     : tt5719748
+TMDB                                     : movie/438650
+
+Video
+ID                                       : 1
+ID in the original source medium         : 4113 (0x1011)
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@High
+HDR format                               : Dolby Vision, Version 1.0, dvhe.07.06, BL+EL+RPU, Blu-ray compatible / SMPTE ST 2086, HDR10 compatible
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 1 h 59 min
+Bit rate                                 : 69.7 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.350
+Stream size                              : 57.9 GiB (93%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : PQ
+Matrix coefficients                      : BT.2020 non-constant
+Mastering display color primaries        : Display P3
+Mastering display luminance              : min: 0.0001 cd/m2, max: 1000 cd/m2
+Maximum Content Light Level              : 1000 cd/m2
+Maximum Frame-Average Light Level        : 288 cd/m2
+Original source medium                   : Blu-ray
+
+Audio #1
+ID                                       : 2
+Format                                   : MLP FBA 16-ch
+Format/Info                              : Meridian Lossless Packing FBA with 16-channel presentation
+Commercial name                          : Dolby TrueHD with Dolby Atmos
+Codec ID                                 : A_TRUEHD
+Duration                                 : 1 h 59 min
+Bit rate mode                            : Variable
+Bit rate                                 : 3 955 kb/s
+Maximum bit rate                         : 6 264 kb/s
+Channel(s)                               : 8 channels
+Channel layout                           : L R C LFE Ls Rs Lb Rb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 1 200.000 FPS (40 SPF)
+Compression mode                         : Lossless
+Stream size                              : 3.29 GiB (5%)
+Title                                    : TrueHD Atmos 7.1
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Number of dynamic objects                : 15
+Bed channel count                        : 1 channel
+Bed channel configuration                : LFE
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 1 h 59 min
+Bit rate mode                            : Constant
+Bit rate                                 : 640 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 545 MiB (1%)
+Title                                    : AC-3 5.1-EX
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 4
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 7 s 883 ms
+Bit rate                                 : 76.2 kb/s
+Count of elements                        : 6
+Stream size                              : 73.3 KiB (0%)
+Title                                    : English (Forced)
+Language                                 : English
+Default                                  : No
+Forced                                   : Yes
+
+Text #2
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 45 min
+Bit rate                                 : 28.9 kb/s
+Count of elements                        : 2102
+Stream size                              : 21.7 MiB (0%)
+Title                                    : English
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 6
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 49 min
+Bit rate                                 : 31.4 kb/s
+Count of elements                        : 2352
+Stream size                              : 24.6 MiB (0%)
+Title                                    : English (SDH)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 7
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 58 min
+Bit rate                                 : 18.6 kb/s
+Count of elements                        : 2068
+Stream size                              : 15.8 MiB (0%)
+Title                                    : French
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 8
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 58 min
+Bit rate                                 : 19.0 kb/s
+Count of elements                        : 2836
+Stream size                              : 16.1 MiB (0%)
+Title                                    : French (SDH)
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 9
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 58 min
+Bit rate                                 : 22.6 kb/s
+Count of elements                        : 1876
+Stream size                              : 19.1 MiB (0%)
+Title                                    : German
+Language                                 : German
+Default                                  : No
+Forced                                   : No
+
+Text #7
+ID                                       : 10
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 47 min
+Bit rate                                 : 21.1 kb/s
+Count of elements                        : 1930
+Stream size                              : 16.3 MiB (0%)
+Title                                    : Italian
+Language                                 : Italian
+Default                                  : No
+Forced                                   : No
+
+Text #8
+ID                                       : 11
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 49 min
+Bit rate                                 : 23.7 kb/s
+Count of elements                        : 1996
+Stream size                              : 18.6 MiB (0%)
+Title                                    : Spanish (Castilian)
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Text #9
+ID                                       : 12
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 49 min
+Bit rate                                 : 28.3 kb/s
+Count of elements                        : 2628
+Stream size                              : 22.1 MiB (0%)
+Title                                    : Spanish (Castilian) (SDH)
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Text #10
+ID                                       : 13
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 57 min
+Bit rate                                 : 25.8 kb/s
+Count of elements                        : 2224
+Stream size                              : 21.7 MiB (0%)
+Title                                    : Spanish (Latin American)
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Chapter 1
+00:07:26.946                             : en:Chapter 2
+00:13:19.257                             : en:Chapter 3
+00:21:35.211                             : en:Chapter 4
+00:29:35.649                             : en:Chapter 5
+00:38:18.880                             : en:Chapter 6
+00:45:11.876                             : en:Chapter 7
+00:53:08.310                             : en:Chapter 8
+01:01:23.513                             : en:Chapter 9
+01:05:46.359                             : en:Chapter 10
+01:14:04.857                             : en:Chapter 11
+01:22:21.186                             : en:Chapter 12
+01:31:40.954                             : en:Chapter 13
+01:38:46.879                             : en:Chapter 14
+01:45:20.940                             : en:Chapter 15
+01:47:43.540                             : en:Chapter 16
