@@ -1,0 +1,176 @@
+General
+Unique ID                                : 259116755944024760423392785018469142736 (0xC2F0126A6E53C6B076B2289C842ED0D0)
+Complete name                            : Berserk.The.Golden.Age.Arc.III.The.Advent.2013.BluRay.1080p.DTS-HD.MA.5.1.AVC.HYBRID.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 31.9 GiB
+Duration                                 : 1 h 47 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 42.5 Mb/s
+Movie name                               : Berserk: The Golden Age Arc III - The Advent (2013)
+Encoded date                             : UTC 2023-02-16 19:30:20
+Writing application                      : mkvmerge v74.0.0 ('You Oughta Know') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1
+IMDB                                     : tt2358913
+TMDB                                     : movie/144288
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 47 min
+Bit rate mode                            : Variable
+Bit rate                                 : 36.3 Mb/s
+Maximum bit rate                         : 39.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.731
+Stream size                              : 27.3 GiB (86%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 47 min
+Bit rate mode                            : Variable
+Bit rate                                 : 4 013 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 85 ms
+Stream size                              : 3.01 GiB (9%)
+Title                                    : DTS-HD MA 5.1
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 47 min
+Bit rate mode                            : Variable
+Bit rate                                 : 2 030 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 91 ms
+Stream size                              : 1.53 GiB (5%)
+Title                                    : DTS-HD MA 5.1
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 4
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 39 min
+Bit rate                                 : 14.4 kb/s
+Frame rate                               : 0.270 FPS
+Count of elements                        : 1616
+Stream size                              : 10.3 MiB (0%)
+Title                                    : English
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 47 min
+Bit rate                                 : 12.6 kb/s
+Frame rate                               : 0.237 FPS
+Count of elements                        : 1524
+Stream size                              : 9.68 MiB (0%)
+Title                                    : Dutch
+Language                                 : Dutch
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 6
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 47 min
+Bit rate                                 : 13.1 kb/s
+Frame rate                               : 0.241 FPS
+Count of elements                        : 1548
+Stream size                              : 10.1 MiB (0%)
+Title                                    : French (Parisian)
+Language                                 : French (FR)
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 7
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 47 min
+Bit rate                                 : 17.1 kb/s
+Frame rate                               : 0.233 FPS
+Count of elements                        : 1494
+Stream size                              : 13.1 MiB (0%)
+Title                                    : German
+Language                                 : German
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 8
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 47 min
+Bit rate                                 : 20.0 kb/s
+Frame rate                               : 0.266 FPS
+Count of elements                        : 1708
+Stream size                              : 15.3 MiB (0%)
+Title                                    : Italian (SDH)
+Language                                 : Italian
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:The Prophecy
+00:05:21.238                             : en:Bakiraka Leader Silat
+00:12:07.644                             : en:Countdown to Destruction
+00:23:38.834                             : en:Tower of Rebirth
+00:34:57.137                             : en:In the middle of a Dream
+00:49:22.126                             : en:The Eclipse
+01:06:47.546                             : en:The Reincarnation
+01:30:04.191                             : en:Brand of Sacrifice
+01:41:59.030                             : en:Ending Credits/The Black Swordsman
