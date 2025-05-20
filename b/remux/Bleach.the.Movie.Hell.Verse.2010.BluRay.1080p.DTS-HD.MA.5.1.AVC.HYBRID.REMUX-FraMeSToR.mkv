@@ -1,0 +1,174 @@
+General
+Unique ID                                : 241614096135084986862367461173068606864 (0xB5C52EA975E1B745A7212701B478AD90)
+Complete name                            : Bleach.the.Movie.Hell.Verse.2010.BluRay.1080p.DTS-HD.MA.5.1.AVC.HYBRID.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 17.9 GiB
+Duration                                 : 1 h 33 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 27.3 Mb/s
+Movie name                               : Bleach the Movie: Hell Verse (2010)
+Encoded date                             : UTC 2022-03-26 07:03:14
+Writing application                      : mkvmerge v66.0.0 ('Josie') 64-bit
+Writing library                          : libebml v1.4.2 + libmatroska v1.6.4
+IMDB                                     : tt1785394
+TMDB                                     : movie/73245
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, GOP                     : M=3, N=24
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 33 min
+Bit rate mode                            : Variable
+Bit rate                                 : 19.3 Mb/s
+Maximum bit rate                         : 35.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.388
+Stream size                              : 12.6 GiB (71%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 33 min
+Bit rate mode                            : Variable
+Bit rate                                 : 4 009 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 4 ms
+Stream size                              : 2.63 GiB (15%)
+Title                                    : DTS-HD MA 5.1
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 33 min
+Bit rate mode                            : Variable
+Bit rate                                 : 3 934 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 4 ms
+Stream size                              : 2.58 GiB (14%)
+Title                                    : DTS-HD MA 5.1
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 4
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 30 min
+Bit rate                                 : 23.5 kb/s
+Count of elements                        : 2238
+Stream size                              : 15.2 MiB (0%)
+Title                                    : English
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 27 min
+Bit rate                                 : 1 177 b/s
+Count of elements                        : 58
+Stream size                              : 753 KiB (0%)
+Title                                    : English (Foreign)
+Language                                 : English
+Default                                  : No
+Forced                                   : Yes
+
+Text #3
+ID                                       : 6
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 30 min
+Bit rate                                 : 18.0 kb/s
+Count of elements                        : 1964
+Stream size                              : 11.7 MiB (0%)
+Title                                    : Dutch
+Language                                 : Dutch
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 7
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 30 min
+Bit rate                                 : 17.3 kb/s
+Count of elements                        : 1964
+Stream size                              : 11.2 MiB (0%)
+Title                                    : French
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Chapter 1
+00:02:56.218                             : en:Chapter 2
+00:05:31.331                             : en:Chapter 3
+00:09:11.801                             : en:Chapter 4
+00:11:54.714                             : en:Chapter 5
+00:14:33.331                             : en:Chapter 6
+00:17:33.552                             : en:Chapter 7
+00:22:36.355                             : en:Chapter 8
+00:27:45.163                             : en:Chapter 9
+00:32:53.305                             : en:Chapter 10
+00:39:06.344                             : en:Chapter 11
+00:47:06.824                             : en:Chapter 12
+00:49:54.575                             : en:Chapter 13
+00:54:27.222                             : en:Chapter 14
+00:59:47.292                             : en:Chapter 15
+01:04:16.853                             : en:Chapter 16
+01:07:32.632                             : en:Chapter 17
+01:10:18.548                             : en:Chapter 18
+01:12:35.726                             : en:Chapter 19
+01:14:47.983                             : en:Chapter 20
+01:18:00.509                             : en:Chapter 21
+01:21:50.239                             : en:Chapter 22
+01:26:09.456                             : en:Chapter 23
+01:29:10.220                             : en:Chapter 24
