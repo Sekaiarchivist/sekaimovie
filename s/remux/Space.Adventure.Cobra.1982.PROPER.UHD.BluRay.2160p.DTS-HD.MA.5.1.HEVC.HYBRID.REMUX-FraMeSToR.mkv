@@ -1,0 +1,143 @@
+General
+Unique ID                                : 334089026656889714214803145216442404787 (0xFB5734BFE32AD34F90AD54C9A1F28FB3)
+Complete name                            : Space.Adventure.Cobra.1982.PROPER.UHD.BluRay.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 48.2 GiB
+Duration                                 : 1 h 41 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 68.0 Mb/s
+Movie name                               : Space Adventure Cobra (1982)
+Encoded date                             : UTC 2020-09-23 17:31:17
+Writing application                      : mkvmerge v50.0.0 ('Awakenings') 64-bit
+Writing library                          : libebml v1.4.0 + libmatroska v1.6.2
+IMDB                                     : tt0163494
+TMDB                                     : movie/81850
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@High
+HDR format                               : SMPTE ST 2086, HDR10 compatible
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 1 h 39 min
+Bit rate                                 : 64.9 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.326
+Stream size                              : 44.9 GiB (93%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : PQ
+Matrix coefficients                      : BT.2020 non-constant
+Mastering display color primaries        : BT.2020
+Mastering display luminance              : min: 0.0050 cd/m2, max: 1000 cd/m2
+Maximum Content Light Level              : 990 cd/m2
+Maximum Frame-Average Light Level        : 990 cd/m2
+
+Audio #1
+ID                                       : 2
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 41 min
+Bit rate mode                            : Variable
+Bit rate                                 : 3 934 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 2 s 2 ms
+Stream size                              : 2.79 GiB (6%)
+Title                                    : DTS-HD MA 5.1
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 1 h 41 min
+Bit rate mode                            : Variable
+Bit rate                                 : 600 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 11.719 FPS (4096 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 2 s 2 ms
+Stream size                              : 435 MiB (1%)
+Title                                    : FLAC 2.0
+Writing library                          : libFLAC 1.3.3 (UTC 2019-08-04)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 4
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 39 min
+Bit rate                                 : 25.0 kb/s
+Count of elements                        : 1738
+Stream size                              : 17.7 MiB (0%)
+Title                                    : English
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 39 min
+Bit rate                                 : 84 b/s
+Count of elements                        : 10
+Stream size                              : 61.2 KiB (0%)
+Title                                    : English (Foreign)
+Language                                 : English
+Default                                  : No
+Forced                                   : Yes
+
+Menu
+00:00:00.000                             : en:Chapter 1
+00:04:44.618                             : en:Chapter 2
+00:07:43.797                             : en:Chapter 3
+00:10:35.677                             : en:Chapter 4
+00:12:55.608                             : en:Chapter 5
+00:16:51.552                             : en:Chapter 6
+00:19:04.810                             : en:Chapter 7
+00:22:57.001                             : en:Chapter 8
+00:25:01.583                             : en:Chapter 9
+00:26:57.324                             : en:Chapter 10
+00:30:22.446                             : en:Chapter 11
+00:36:16.508                             : en:Chapter 12
+00:41:01.250                             : en:Chapter 13
+00:47:27.553                             : en:Chapter 14
+00:50:14.762                             : en:Chapter 15
+00:55:55.227                             : en:Chapter 16
+00:58:32.801                             : en:Chapter 17
+01:03:16.334                             : en:Chapter 18
+01:13:30.281                             : en:Chapter 19
+01:18:44.261                             : en:Chapter 20
+01:23:47.064                             : en:Chapter 21
+01:28:09.284                             : en:Chapter 22
+01:34:23.616                             : en:Chapter 23
+01:36:34.706                             : en:Chapter 24
