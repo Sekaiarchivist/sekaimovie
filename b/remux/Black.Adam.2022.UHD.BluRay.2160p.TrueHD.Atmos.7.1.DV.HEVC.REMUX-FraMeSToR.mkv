@@ -1,0 +1,557 @@
+General
+Unique ID                                : 58921514981268111526884123287504571456 (0x2C53DEFA5265C0E2AE70FA77A4344C40)
+Complete name                            : Black.Adam.2022.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 44.2 GiB
+Duration                                 : 2 h 4 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 50.7 Mb/s
+Movie name                               : Black Adam (2022) 4K
+Encoded date                             : UTC 2023-01-01 23:27:29
+Writing application                      : mkvmerge v72.0.0 ('Minuano (Six-eight)') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1
+IMDB                                     : tt6443346
+TMDB                                     : movie/436270
+
+Video
+ID                                       : 1
+ID in the original source medium         : 4113 (0x1011)
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@High
+HDR format                               : Dolby Vision, Version 1.0, dvhe.07.06, BL+EL+RPU, Blu-ray compatible / SMPTE ST 2086, HDR10 compatible
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 2 h 4 min
+Bit rate                                 : 46.4 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.233
+Stream size                              : 40.5 GiB (92%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : PQ
+Matrix coefficients                      : BT.2020 non-constant
+Mastering display color primaries        : Display P3
+Mastering display luminance              : min: 0.0001 cd/m2, max: 1000 cd/m2
+Maximum Content Light Level              : 718 cd/m2
+Maximum Frame-Average Light Level        : 301 cd/m2
+Original source medium                   : Blu-ray
+
+Audio #1
+ID                                       : 2
+Format                                   : MLP FBA 16-ch
+Format/Info                              : Meridian Lossless Packing FBA with 16-channel presentation
+Commercial name                          : Dolby TrueHD with Dolby Atmos
+Codec ID                                 : A_TRUEHD
+Duration                                 : 2 h 4 min
+Bit rate mode                            : Variable
+Bit rate                                 : 3 289 kb/s
+Maximum bit rate                         : 4 554 kb/s
+Channel(s)                               : 8 channels
+Channel layout                           : L R C LFE Ls Rs Lb Rb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 1 200.000 FPS (40 SPF)
+Compression mode                         : Lossless
+Stream size                              : 2.87 GiB (6%)
+Title                                    : TrueHD Atmos 7.1
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Number of dynamic objects                : 11
+Bed channel count                        : 1 channel
+Bed channel configuration                : LFE
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 4 min
+Bit rate mode                            : Constant
+Bit rate                                 : 640 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 572 MiB (1%)
+Title                                    : AC-3 5.1
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 4
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 42 min
+Bit rate                                 : 1 424 b/s
+Frame rate                               : 0.026 FPS
+Count of elements                        : 162
+Stream size                              : 1.05 MiB (0%)
+Title                                    : English (Forced only)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : Yes
+
+Text #2
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 56 min
+Bit rate                                 : 47 b/s
+Frame rate                               : 0.194 FPS
+Count of elements                        : 1356
+Stream size                              : 40.3 KiB (0%)
+Title                                    : English
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 6
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 56 min
+Bit rate                                 : 36.3 kb/s
+Frame rate                               : 0.510 FPS
+Count of elements                        : 3565
+Stream size                              : 30.3 MiB (0%)
+Title                                    : English (SDH)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 7
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 67 b/s
+Frame rate                               : 0.170 FPS
+Count of elements                        : 1260
+Stream size                              : 61.2 KiB (0%)
+Title                                    : Arabic
+Language                                 : Arabic
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 8
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 34 b/s
+Frame rate                               : 0.167 FPS
+Count of elements                        : 1239
+Stream size                              : 30.8 KiB (0%)
+Title                                    : Chinese (Traditional)
+Language                                 : Chinese (Traditional)
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 9
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 41 b/s
+Frame rate                               : 0.167 FPS
+Count of elements                        : 1242
+Stream size                              : 37.6 KiB (0%)
+Title                                    : Croatian
+Language                                 : Croatian
+Default                                  : No
+Forced                                   : No
+
+Text #7
+ID                                       : 10
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 42 b/s
+Frame rate                               : 0.135 FPS
+Count of elements                        : 1004
+Stream size                              : 38.8 KiB (0%)
+Title                                    : Czech
+Language                                 : Czech
+Default                                  : No
+Forced                                   : No
+
+Text #8
+ID                                       : 11
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 3 min
+Bit rate                                 : 21.3 kb/s
+Frame rate                               : 0.223 FPS
+Count of elements                        : 1652
+Stream size                              : 18.9 MiB (0%)
+Title                                    : Danish
+Language                                 : Danish
+Default                                  : No
+Forced                                   : No
+
+Text #9
+ID                                       : 12
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 37 b/s
+Frame rate                               : 0.128 FPS
+Count of elements                        : 948
+Stream size                              : 33.7 KiB (0%)
+Title                                    : Dutch
+Language                                 : Dutch
+Default                                  : No
+Forced                                   : No
+
+Text #10
+ID                                       : 13
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 36 b/s
+Frame rate                               : 0.169 FPS
+Count of elements                        : 1251
+Stream size                              : 33.0 KiB (0%)
+Title                                    : Estonian
+Language                                 : Estonian
+Default                                  : No
+Forced                                   : No
+
+Text #11
+ID                                       : 14
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 3 min
+Bit rate                                 : 23.7 kb/s
+Frame rate                               : 0.339 FPS
+Count of elements                        : 2516
+Stream size                              : 20.9 MiB (0%)
+Title                                    : Finnish
+Language                                 : Finnish
+Default                                  : No
+Forced                                   : No
+
+Text #12
+ID                                       : 15
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 3 min
+Bit rate                                 : 22.5 kb/s
+Frame rate                               : 0.350 FPS
+Count of elements                        : 2594
+Stream size                              : 19.9 MiB (0%)
+Title                                    : French
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #13
+ID                                       : 16
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 4 min
+Bit rate                                 : 32.4 kb/s
+Frame rate                               : 0.375 FPS
+Count of elements                        : 2794
+Stream size                              : 28.8 MiB (0%)
+Title                                    : German (SDH)
+Language                                 : German
+Default                                  : No
+Forced                                   : No
+
+Text #14
+ID                                       : 17
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 70 b/s
+Frame rate                               : 0.169 FPS
+Count of elements                        : 1256
+Stream size                              : 63.6 KiB (0%)
+Title                                    : Greek
+Language                                 : Greek
+Default                                  : No
+Forced                                   : No
+
+Text #15
+ID                                       : 18
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 38 b/s
+Frame rate                               : 0.126 FPS
+Count of elements                        : 936
+Stream size                              : 35.1 KiB (0%)
+Title                                    : Hungarian
+Language                                 : Hungarian
+Default                                  : No
+Forced                                   : No
+
+Text #16
+ID                                       : 19
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 43 b/s
+Frame rate                               : 0.167 FPS
+Count of elements                        : 1239
+Stream size                              : 39.3 KiB (0%)
+Title                                    : Icelandic
+Language                                 : Icelandic
+Default                                  : No
+Forced                                   : No
+
+Text #17
+ID                                       : 20
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 56 min
+Bit rate                                 : 45 b/s
+Frame rate                               : 0.191 FPS
+Count of elements                        : 1335
+Stream size                              : 38.5 KiB (0%)
+Title                                    : Italian
+Language                                 : Italian
+Default                                  : No
+Forced                                   : No
+
+Text #18
+ID                                       : 21
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 56 min
+Bit rate                                 : 34.5 kb/s
+Frame rate                               : 0.501 FPS
+Count of elements                        : 3500
+Stream size                              : 28.7 MiB (0%)
+Title                                    : Italian (SDH)
+Language                                 : Italian
+Default                                  : No
+Forced                                   : No
+
+Text #19
+ID                                       : 22
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 56 min
+Bit rate                                 : 40 b/s
+Frame rate                               : 0.179 FPS
+Count of elements                        : 1254
+Stream size                              : 34.5 KiB (0%)
+Title                                    : Korean
+Language                                 : Korean
+Default                                  : No
+Forced                                   : No
+
+Text #20
+ID                                       : 23
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 42 b/s
+Frame rate                               : 0.170 FPS
+Count of elements                        : 1262
+Stream size                              : 38.6 KiB (0%)
+Title                                    : Latvian
+Language                                 : Latvian
+Default                                  : No
+Forced                                   : No
+
+Text #21
+ID                                       : 24
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 43 b/s
+Frame rate                               : 0.170 FPS
+Count of elements                        : 1262
+Stream size                              : 39.8 KiB (0%)
+Title                                    : Lithuanian
+Language                                 : Lithuanian
+Default                                  : No
+Forced                                   : No
+
+Text #22
+ID                                       : 25
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 3 min
+Bit rate                                 : 23.2 kb/s
+Frame rate                               : 0.255 FPS
+Count of elements                        : 1892
+Stream size                              : 20.5 MiB (0%)
+Title                                    : Norwegian
+Language                                 : Norwegian
+Default                                  : No
+Forced                                   : No
+
+Text #23
+ID                                       : 26
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 38 b/s
+Frame rate                               : 0.167 FPS
+Count of elements                        : 1241
+Stream size                              : 35.0 KiB (0%)
+Title                                    : Polish
+Language                                 : Polish
+Default                                  : No
+Forced                                   : No
+
+Text #24
+ID                                       : 27
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 3 min
+Bit rate                                 : 23.1 kb/s
+Frame rate                               : 0.333 FPS
+Count of elements                        : 2468
+Stream size                              : 20.4 MiB (0%)
+Title                                    : Portuguese (Brazilian)
+Language                                 : Portuguese (BR)
+Default                                  : No
+Forced                                   : No
+
+Text #25
+ID                                       : 28
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 45 b/s
+Frame rate                               : 0.169 FPS
+Count of elements                        : 1253
+Stream size                              : 41.1 KiB (0%)
+Title                                    : Portuguese (Iberian)
+Language                                 : Portuguese (PT)
+Default                                  : No
+Forced                                   : No
+
+Text #26
+ID                                       : 29
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 68 b/s
+Frame rate                               : 0.175 FPS
+Count of elements                        : 1297
+Stream size                              : 62.4 KiB (0%)
+Title                                    : Russian
+Language                                 : Russian
+Default                                  : No
+Forced                                   : No
+
+Text #27
+ID                                       : 30
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 37 b/s
+Frame rate                               : 0.141 FPS
+Count of elements                        : 1048
+Stream size                              : 33.8 KiB (0%)
+Title                                    : Slovenian
+Language                                 : Slovenian
+Default                                  : No
+Forced                                   : No
+
+Text #28
+ID                                       : 31
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 3 min
+Bit rate                                 : 26.1 kb/s
+Frame rate                               : 0.339 FPS
+Count of elements                        : 2516
+Stream size                              : 23.1 MiB (0%)
+Title                                    : Spanish (Latin American)
+Language                                 : Spanish (Latin America)
+Default                                  : No
+Forced                                   : No
+
+Text #29
+ID                                       : 32
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 3 min
+Bit rate                                 : 22.6 kb/s
+Frame rate                               : 0.251 FPS
+Count of elements                        : 1860
+Stream size                              : 20.0 MiB (0%)
+Title                                    : Swedish
+Language                                 : Swedish
+Default                                  : No
+Forced                                   : No
+
+Text #30
+ID                                       : 33
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 3 min
+Bit rate                                 : 91 b/s
+Frame rate                               : 0.170 FPS
+Count of elements                        : 1264
+Stream size                              : 82.4 KiB (0%)
+Title                                    : Thai
+Language                                 : Thai
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Chapter 1
+00:10:23.581                             : en:Chapter 2
+00:19:57.613                             : en:Chapter 3
+00:29:29.893                             : en:Chapter 4
+00:38:35.146                             : en:Chapter 5
+00:50:42.081                             : en:Chapter 6
+01:00:21.409                             : en:Chapter 7
+01:09:44.722                             : en:Chapter 8
+01:19:36.271                             : en:Chapter 9
+01:29:12.264                             : en:Chapter 10
+01:40:20.389                             : en:Chapter 11
+01:49:40.991                             : en:Chapter 12
+01:53:13.078                             : en:Chapter 13
