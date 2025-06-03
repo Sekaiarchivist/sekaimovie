@@ -1,0 +1,121 @@
+General
+Unique ID                                : 275005797680069101235596081602761827914 (0xCEE430A7FB998E650EBC308AA0AFA64A)
+Complete name                            : Liar.Game.Reborn.2012.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-RMS.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 32.7 GiB
+Duration                                 : 2 h 10 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 35.9 Mb/s
+Encoded date                             : UTC 2022-01-07 11:48:50
+Writing application                      : mkvmerge v61.0.0 ('So') 64-bit
+Writing library                          : libebml v1.4.2 + libmatroska v1.6.4
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 10 min
+Bit rate mode                            : Constant
+Bit rate                                 : 35.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.704
+Stream size                              : 30.8 GiB (94%)
+Title                                    : MPEG-4 AVC Video  / 35000 kbps          1080p / 23.976 fps / 16:9 / High Profile 4.1
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 2 h 10 min
+Bit rate mode                            : Variable
+Bit rate                                 : 1 986 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Stream size                              : 1.81 GiB (6%)
+Title                                    : DTS-HD Master Audio / 5.1 / 48 kHz / 1 986 kbps / 16-bit
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 9 min
+Bit rate                                 : 24.0 kb/s
+Count of elements                        : 2862
+Stream size                              : 22.3 MiB (0%)
+Language                                 : Chinese
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 9 min
+Bit rate                                 : 24.3 kb/s
+Count of elements                        : 2862
+Stream size                              : 22.5 MiB (0%)
+Language                                 : Chinese
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 9 min
+Bit rate                                 : 37.9 kb/s
+Count of elements                        : 3822
+Stream size                              : 35.2 MiB (0%)
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : Chapter 01
+00:07:37.624                             : Chapter 02
+00:14:38.544                             : Chapter 03
+00:20:33.566                             : Chapter 04
+00:26:28.962                             : Chapter 05
+00:33:57.369                             : Chapter 06
+00:42:42.059                             : Chapter 07
+00:47:33.517                             : Chapter 08
+00:53:59.403                             : Chapter 09
+00:58:57.117                             : Chapter 10
+01:03:42.652                             : Chapter 11
+01:09:15.360                             : Chapter 12
+01:15:33.863                             : Chapter 13
+01:19:46.115                             : Chapter 14
+01:27:08.557                             : Chapter 15
+01:37:04.027                             : Chapter 16
+01:43:02.885                             : Chapter 17
+01:49:24.057                             : Chapter 18
+01:57:29.042                             : Chapter 19
+02:04:42.475                             : Chapter 20
