@@ -1,0 +1,73 @@
+General
+Unique ID                                : 183683020742444248148671446003734854604 (0x8A301020440D857CB3A9B7385748BBCC)
+Complete name                            : SPEC.Sho.2012.1080p.BluRay.x264-WiKi.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 10.9 GiB
+Duration                                 : 2 h 2 min
+Overall bit rate                         : 12.8 Mb/s
+Movie name                               : Jubowo @ WiKi
+Encoded date                             : UTC 2013-10-19 05:54:39
+Writing application                      : mkvmerge v6.4.1 ('Omega Point') built on Sep 16 2013 22:05:10
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 2 min
+Bit rate                                 : 11.9 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.191
+Stream size                              : 10.2 GiB (93%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 2 min
+Bit rate mode                            : Constant
+Bit rate                                 : 640 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 561 MiB (5%)
+Language                                 : Japanese
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:00:00:00.000
+00:05:14.547                             : en:00:05:14.547
+00:18:02.181                             : en:00:18:02.181
+00:25:52.284                             : en:00:25:52.284
+00:31:32.423                             : en:00:31:32.423
+00:37:09.660                             : en:00:37:09.660
+00:45:48.479                             : en:00:45:48.479
+00:54:02.105                             : en:00:54:02.105
+01:07:46.362                             : en:01:07:46.362
+01:15:24.786                             : en:01:15:24.786
+01:21:13.034                             : en:01:21:13.034
+01:32:44.225                             : en:01:32:44.225
+01:55:46.105                             : en:01:55:46.105
