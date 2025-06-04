@@ -1,0 +1,158 @@
+General
+Unique ID                                : 178528652019781522813571406148690128198 (0x864F5E20A4B53393A55D9CB452FA2D46)
+Complete name                            : Crows.Zero.II.2009.Japanese.BluRay.REMUX.1080p.AVC.TrueHD.5.1-HDB.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 37.9 GiB
+Duration                                 : 2 h 13 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 40.8 Mb/s
+Frame rate                               : 23.976 FPS
+Encoded date                             : 2016-10-28 03:02:00 UTC
+Writing application                      : mkvmerge v9.4.0 ('Knurl') 64bit
+Writing library                          : libebml v1.3.4 + libmatroska v1.4.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 3 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 3 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 13 min
+Bit rate mode                            : Constant
+Bit rate                                 : 39.5 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.794
+Time code of first frame                 : 01:00:00:00
+Stream size                              : 35.6 GiB (94%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : MLP FBA
+Format/Info                              : Meridian Lossless Packing FBA
+Commercial name                          : Dolby TrueHD
+Codec ID                                 : A_TRUEHD
+Duration                                 : 2 h 13 min
+Bit rate mode                            : Variable
+Bit rate                                 : 1 711 kb/s
+Maximum bit rate                         : 3 369 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 1 200.000 FPS (40 SPF)
+Compression mode                         : Lossless
+Stream size                              : 1.59 GiB (4%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 13 min
+Bit rate mode                            : Constant
+Bit rate                                 : 640 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 610 MiB (2%)
+Language                                 : Japanese
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 4
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 11 min
+Bit rate                                 : 9 630 b/s
+Frame rate                               : 0.369 FPS
+Count of elements                        : 2910
+Stream size                              : 9.07 MiB (0%)
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 5
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 11 min
+Bit rate                                 : 8 561 b/s
+Frame rate                               : 0.317 FPS
+Count of elements                        : 2495
+Stream size                              : 8.03 MiB (0%)
+Language                                 : Chinese
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 6
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 11 min
+Bit rate                                 : 8 926 b/s
+Frame rate                               : 0.317 FPS
+Count of elements                        : 2495
+Stream size                              : 8.37 MiB (0%)
+Language                                 : Chinese
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:00:00:00.000
+00:02:33.779                             : en:00:02:33.779
+00:10:04.187                             : en:00:10:04.187
+00:16:59.227                             : en:00:16:59.227
+00:23:23.360                             : en:00:23:23.360
+00:27:43.078                             : en:00:27:43.078
+00:34:13.468                             : en:00:34:13.468
+00:37:11.396                             : en:00:37:11.396
+00:44:01.222                             : en:00:44:01.222
+00:48:54.181                             : en:00:48:54.181
+00:54:50.329                             : en:00:54:50.329
+00:58:51.236                             : en:00:58:51.236
+01:02:56.064                             : en:01:02:56.064
+01:07:18.910                             : en:01:07:18.910
+01:14:59.328                             : en:01:14:59.328
+01:21:51.156                             : en:01:21:51.156
+01:27:27.534                             : en:01:27:27.534
+01:31:38.076                             : en:01:31:38.076
+01:38:49.632                             : en:01:38:49.632
+01:43:20.111                             : en:01:43:20.111
+01:51:53.248                             : en:01:51:53.248
+01:59:23.615                             : en:01:59:23.615
+02:05:25.935                             : en:02:05:25.935
+02:08:38.377                             : en:02:08:38.377
