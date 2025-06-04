@@ -1,0 +1,117 @@
+General
+Unique ID                                : 235829802096401654396488175658226826502 (0xB16B2AF28EC8CF837F9A2891150A3D06)
+Complete name                            : Crows.Explode.2014.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-TRiToN.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 29.2 GiB
+Duration                                 : 2 h 10 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 32.2 Mb/s
+Frame rate                               : 23.976 FPS
+Movie name                               : Crows Explode (2014)
+Encoded date                             : 2021-09-08 08:43:23 UTC
+Writing application                      : mkvmerge v60.0.0 ('Are We Copies?') 64-bit
+Writing library                          : libebml v1.4.2 + libmatroska v1.6.4
+IMDB                                     : tt2825120
+TMDB                                     : movie/253451
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, GOP                     : M=1, N=12
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 10 min
+Bit rate mode                            : Variable
+Bit rate                                 : 28.2 Mb/s
+Maximum bit rate                         : 34.8 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.568
+Stream size                              : 25.6 GiB (88%)
+Title                                    : MPEG-4 AVC Video / 28238 kbps / 1080p / 23.976 fps / 16:9 / Main Profile 4.1
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 2 h 10 min
+Bit rate mode                            : Variable
+Bit rate                                 : 3 897 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Stream size                              : 3.54 GiB (12%)
+Title                                    : DTS-HD Master Audio / 5.1 / 48 kHz / 3897 kbps / 24-bit
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 9 min
+Bit rate                                 : 19.8 kb/s
+Frame rate                               : 0.297 FPS
+Count of elements                        : 2316
+Stream size                              : 18.4 MiB (0%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 9 min
+Bit rate                                 : 20.6 kb/s
+Frame rate                               : 0.350 FPS
+Count of elements                        : 2722
+Stream size                              : 19.1 MiB (0%)
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Chapter 01
+00:10:59.576                             : en:Chapter 02
+00:17:51.821                             : en:Chapter 03
+00:24:21.752                             : en:Chapter 04
+00:30:29.411                             : en:Chapter 05
+00:39:06.135                             : en:Chapter 06
+00:48:33.619                             : en:Chapter 07
+00:55:51.098                             : en:Chapter 08
+01:02:09.517                             : en:Chapter 09
+01:08:27.103                             : en:Chapter 10
+01:15:37.032                             : en:Chapter 11
+01:22:41.623                             : en:Chapter 12
+01:32:38.261                             : en:Chapter 13
+01:40:53.172                             : en:Chapter 14
+01:53:04.277                             : en:Chapter 15
+02:06:06.642                             : en:Chapter 16
