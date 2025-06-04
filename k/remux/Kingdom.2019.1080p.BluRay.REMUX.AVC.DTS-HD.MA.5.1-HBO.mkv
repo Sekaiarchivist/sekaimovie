@@ -1,0 +1,125 @@
+General
+Unique ID                                : 196185410680019351560282240365775749570 (0x9397EF8A9029B474D2131678227701C2)
+Complete name                            : Kingdom.2019.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-HBO.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 35.9 GiB
+Duration                                 : 2 h 13 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 38.4 Mb/s
+Frame rate                               : 24.000 FPS
+Encoded date                             : 2023-04-01 17:10:23 UTC
+Writing application                      : mkvmerge v74.0.0 ('You Oughta Know') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 13 min
+Bit rate mode                            : Variable
+Bit rate                                 : 34.7 Mb/s
+Maximum bit rate                         : 36.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 24.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.698
+Time code of first frame                 : 00:00:00:00
+Stream size                              : 32.5 GiB (90%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 2 h 13 min
+Bit rate mode                            : Variable
+Bit rate                                 : 3 628 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Stream size                              : 3.39 GiB (9%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 8 min
+Bit rate                                 : 26.3 kb/s
+Frame rate                               : 0.315 FPS
+Count of elements                        : 2422
+Stream size                              : 24.1 MiB (0%)
+Language                                 : German
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 8 min
+Bit rate                                 : 17.9 kb/s
+Frame rate                               : 0.285 FPS
+Count of elements                        : 2204
+Stream size                              : 16.5 MiB (0%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 8 min
+Bit rate                                 : 54 b/s
+Frame rate                               : 0.185 FPS
+Count of elements                        : 1430
+Stream size                              : 51.8 KiB (0%)
+Language                                 : Vietnamese
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : Chapter 01
+00:03:54.542                             : Chapter 02
+00:09:10.667                             : Chapter 03
+00:14:55.000                             : Chapter 04
+00:21:55.208                             : Chapter 05
+00:34:54.042                             : Chapter 06
+00:41:36.542                             : Chapter 07
+00:50:39.875                             : Chapter 08
+00:59:57.917                             : Chapter 09
+01:11:29.833                             : Chapter 10
+01:21:29.000                             : Chapter 11
+01:31:52.625                             : Chapter 12
+01:40:51.458                             : Chapter 13
+01:52:17.208                             : Chapter 14
+01:58:16.583                             : Chapter 15
+02:07:37.125                             : Chapter 16
