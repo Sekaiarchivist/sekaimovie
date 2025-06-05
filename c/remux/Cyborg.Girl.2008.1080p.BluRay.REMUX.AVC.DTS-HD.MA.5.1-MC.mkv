@@ -1,0 +1,75 @@
+General
+Unique ID                                : 242270058575154570033508283004997705980 (0xB643841B72DE409E93B1D8EBEC65A0FC)
+Complete name                            : Cyborg.Girl.2008.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-MC.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 28.5 GiB
+Duration                                 : 2 h 0 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 33.8 Mb/s
+Frame rate                               : 23.976 FPS
+Encoded date                             : 2016-03-09 10:36:10 UTC
+Writing application                      : mkvmerge v8.9.0 ('Father Daughter') 64bit
+Writing library                          : libebml v1.3.3 + libmatroska v1.4.4
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 0 min
+Bit rate mode                            : Variable
+Bit rate                                 : 29.8 Mb/s
+Maximum bit rate                         : 40.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.600
+Time code of first frame                 : 00:59:59:00
+Stream size                              : 25.2 GiB (88%)
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 2 h 0 min
+Bit rate mode                            : Variable
+Bit rate                                 : 3 931 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Stream size                              : 3.32 GiB (12%)
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 3
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 54 min
+Bit rate                                 : 4 726 b/s
+Frame rate                               : 0.233 FPS
+Count of elements                        : 1599
+Stream size                              : 3.86 MiB (0%)
+Default                                  : Yes
+Forced                                   : No
