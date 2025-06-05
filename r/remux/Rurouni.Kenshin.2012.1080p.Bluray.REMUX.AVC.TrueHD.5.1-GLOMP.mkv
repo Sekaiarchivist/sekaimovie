@@ -1,0 +1,160 @@
+General
+Unique ID                                : 254401896749905519263645170484186252491 (0xBF6405E8F60EF2A39EF0E085589904CB)
+Complete name                            : Rurouni.Kenshin.2012.1080p.Bluray.REMUX.AVC.TrueHD.5.1-GLOMP.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 30.9 GiB
+Duration                                 : 2 h 14 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 33.0 Mb/s
+Frame rate                               : 23.976 FPS
+Encoded date                             : 2019-01-09 13:44:32 UTC
+Writing application                      : mkvmerge v30.1.0 ('Forever And More') 64-bit
+Writing library                          : libebml v1.3.6 + libmatroska v1.4.9
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 14 min
+Bit rate mode                            : Variable
+Bit rate                                 : 27.1 Mb/s
+Maximum bit rate                         : 39.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.546
+Time code of first frame                 : 01:00:00:00
+Stream size                              : 25.5 GiB (82%)
+Title                                    : MPEG-4 AVC Video / 27171 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Language                                 : zxx
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : MLP FBA
+Format/Info                              : Meridian Lossless Packing FBA
+Commercial name                          : Dolby TrueHD
+Codec ID                                 : A_TRUEHD
+Duration                                 : 2 h 14 min
+Bit rate mode                            : Variable
+Bit rate                                 : 2 183 kb/s
+Maximum bit rate                         : 306 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 1 200.000 FPS (40 SPF)
+Compression mode                         : Lossless
+Stream size                              : 2.05 GiB (7%)
+Title                                    : Japanese / Dolby TrueHD Audio / 5.1 / 48 kHz / 2183 kbps / 16-bit
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 14 min
+Bit rate mode                            : Constant
+Bit rate                                 : 640 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 615 MiB (2%)
+Title                                    : Japanese / Dolby Digital Audio / 5.1 / 48 kHz / 448 kbps
+Language                                 : Japanese
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Format                                   : MLP FBA
+Format/Info                              : Meridian Lossless Packing FBA
+Commercial name                          : Dolby TrueHD
+Codec ID                                 : A_TRUEHD
+Duration                                 : 2 h 14 min
+Bit rate mode                            : Variable
+Bit rate                                 : 2 206 kb/s
+Maximum bit rate                         : 306 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 1 200.000 FPS (40 SPF)
+Compression mode                         : Lossless
+Stream size                              : 2.07 GiB (7%)
+Title                                    : English / Dolby TrueHD Audio / 5.1 / 48 kHz / 2206 kbps / 16-bit
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio #4
+ID                                       : 5
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 14 min
+Bit rate mode                            : Constant
+Bit rate                                 : 640 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 615 MiB (2%)
+Title                                    : English / Dolby Digital Audio / 5.1 / 48 kHz / 448 kbps
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Text
+ID                                       : 6
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 14 min
+Bit rate                                 : 23.7 kb/s
+Frame rate                               : 0.297 FPS
+Count of elements                        : 2392
+Stream size                              : 22.7 MiB (0%)
+Title                                    : English
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : Chapter 01
+00:12:40.843                             : Chapter 02
+00:21:39.590                             : Chapter 03
+00:33:19.247                             : Chapter 04
+00:41:39.914                             : Chapter 05
+00:49:42.521                             : Chapter 06
+00:55:57.854                             : Chapter 07
+01:04:45.340                             : Chapter 08
+01:14:53.823                             : Chapter 09
+01:23:08.525                             : Chapter 10
+01:31:16.346                             : Chapter 11
+01:37:41.939                             : Chapter 12
+01:46:46.025                             : Chapter 13
+01:51:49.703                             : Chapter 14
+02:09:21.087                             : Chapter 15
