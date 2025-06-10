@@ -1,0 +1,599 @@
+General
+Unique ID                      : 99518593750276291254030685497575947210 (0x4ADE957F3C11744B7BC74A23CFDD3BCA)
+Complete name                  : Rurouni Kenshin The Final 2021 1080p BluRay REMUX AVC TrueHD 7.1-TayTO.mkv
+Format                         : Matroska
+Format version                 : Version 4
+File size                      : 41.3 GiB
+Duration                       : 2 h 18 min
+Overall bit rate mode          : Variable
+Overall bit rate               : 42.5 Mb/s
+Movie name                     : 浪客剑心最终章：人诛篇
+Encoded date                   : UTC 2021-10-21 06:59:10
+Writing application            : mkvmerge v62.0.0 ('Apollo') 64-bit
+Writing library                : libebml v1.4.2 + libmatroska v1.6.4
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.1
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 2 h 17 min
+Bit rate mode                  : Variable
+Bit rate                       : 36.4 Mb/s
+Maximum bit rate               : 40.0 Mb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 23.976 (24000/1001) FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.733
+Stream size                    : 35.1 GiB (85%)
+Title                          : TayTO | MPEG-4 AVC  / 36505 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Language                       : Japanese
+Default                        : Yes
+Forced                         : No
+
+Audio #1
+ID                             : 2
+Format                         : MLP FBA
+Format/Info                    : Meridian Lossless Packing FBA
+Commercial name                : Dolby TrueHD
+Codec ID                       : A_TRUEHD
+Duration                       : 2 h 17 min
+Bit rate mode                  : Variable
+Bit rate                       : 4 194 kb/s
+Maximum bit rate               : 6 144 kb/s
+Channel(s)                     : 8 channels
+Channel layout                 : L R C LFE Ls Rs Lb Rb
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 1 200.000 FPS (40 SPF)
+Compression mode               : Lossless
+Stream size                    : 4.04 GiB (10%)
+Title                          : Main Audio | Dolby TrueHD Audio /  Japanese  / 7.1 / 48 kHz / 4194 kbps / 24-bit
+Language                       : Japanese
+Default                        : Yes
+Forced                         : No
+
+Audio #2
+ID                             : 3
+Format                         : E-AC-3
+Format/Info                    : Enhanced AC-3
+Commercial name                : Dolby Digital Plus
+Codec ID                       : A_EAC3
+Duration                       : 2 h 18 min
+Bit rate mode                  : Constant
+Bit rate                       : 640 kb/s
+Channel(s)                     : 6 channels
+Channel layout                 : L R C LFE Ls Rs
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 31.250 FPS (1536 SPF)
+Compression mode               : Lossy
+Delay relative to video        : 8 ms
+Stream size                    : 636 MiB (2%)
+Title                          : Compatibility Track | E-AC-3 / Japanese / 5.1 / 640 kbps / 48 kHz
+Language                       : Japanese
+Service kind                   : Complete Main
+Default                        : No
+Forced                         : No
+
+Audio #3
+ID                             : 4
+Format                         : E-AC-3
+Format/Info                    : Enhanced AC-3
+Commercial name                : Dolby Digital Plus
+Codec ID                       : A_EAC3
+Duration                       : 2 h 18 min
+Bit rate mode                  : Constant
+Bit rate                       : 640 kb/s
+Channel(s)                     : 6 channels
+Channel layout                 : L R C LFE Ls Rs
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 31.250 FPS (1536 SPF)
+Compression mode               : Lossy
+Delay relative to video        : 8 ms
+Stream size                    : 636 MiB (2%)
+Title                          : English Dub NF | E-AC-3 / English / 5.1 / 640 kbps / 48 kHz
+Language                       : English
+Service kind                   : Complete Main
+Default                        : No
+Forced                         : No
+
+Audio #4
+ID                             : 5
+Format                         : E-AC-3
+Format/Info                    : Enhanced AC-3
+Commercial name                : Dolby Digital Plus
+Codec ID                       : A_EAC3
+Duration                       : 2 h 18 min
+Bit rate mode                  : Constant
+Bit rate                       : 640 kb/s
+Channel(s)                     : 6 channels
+Channel layout                 : L R C LFE Ls Rs
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 31.250 FPS (1536 SPF)
+Compression mode               : Lossy
+Delay relative to video        : 8 ms
+Stream size                    : 636 MiB (2%)
+Title                          : Japanese SDH NF - Male Voice | E-AC-3 / Japanese / 5.1 / 640 kbps / 48 kHz
+Language                       : Japanese
+Service kind                   : Complete Main
+Default                        : No
+Forced                         : No
+
+Audio #5
+ID                             : 6
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Commercial name                : Dolby Digital
+Codec ID                       : A_AC3
+Duration                       : 2 h 17 min
+Bit rate mode                  : Constant
+Bit rate                       : 192 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 31.250 FPS (1536 SPF)
+Compression mode               : Lossy
+Stream size                    : 189 MiB (0%)
+Title                          : Japanese SDH - Female Voice | AC-3 / Japanese / 192 kbps / 2.0 / 48 kHz / 192 kbps
+Language                       : Japanese
+Service kind                   : Complete Main
+Default                        : No
+Forced                         : No
+
+Text #1
+ID                             : 7
+Format                         : PGS
+Muxing mode                    : zlib
+Codec ID                       : S_HDMV/PGS
+Codec ID/Info                  : Picture based subtitle format used on BDs/HD-DVDs
+Duration                       : 2 h 15 min
+Bit rate                       : 131 kb/s
+Count of elements              : 5977
+Stream size                    : 127 MiB (0%)
+Title                          : Japanese
+Language                       : Japanese
+Default                        : No
+Forced                         : No
+
+Text #2
+ID                             : 8
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 35 b/s
+Count of elements              : 835
+Stream size                    : 35.5 KiB (0%)
+Title                          : Arabic
+Language                       : Arabic
+Default                        : No
+Forced                         : No
+
+Text #3
+ID                             : 9
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 19 b/s
+Count of elements              : 836
+Stream size                    : 19.4 KiB (0%)
+Title                          : Czech
+Language                       : Czech
+Default                        : No
+Forced                         : No
+
+Text #4
+ID                             : 10
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 19 b/s
+Count of elements              : 837
+Stream size                    : 19.7 KiB (0%)
+Title                          : Danish
+Language                       : Danish
+Default                        : No
+Forced                         : No
+
+Text #5
+ID                             : 11
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 21 b/s
+Count of elements              : 837
+Stream size                    : 21.2 KiB (0%)
+Title                          : German
+Language                       : German
+Default                        : No
+Forced                         : No
+
+Text #6
+ID                             : 12
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 35 b/s
+Count of elements              : 836
+Stream size                    : 35.7 KiB (0%)
+Title                          : Greek
+Language                       : Greek
+Default                        : No
+Forced                         : No
+
+Text #7
+ID                             : 13
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 16 min
+Bit rate                       : 18 b/s
+Count of elements              : 849
+Stream size                    : 18.6 KiB (0%)
+Title                          : English
+Language                       : English
+Default                        : Yes
+Forced                         : Yes
+
+Text #8
+ID                             : 14
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 19 b/s
+Count of elements              : 834
+Stream size                    : 20.0 KiB (0%)
+Title                          : Spanish
+Language                       : Spanish
+Default                        : No
+Forced                         : No
+
+Text #9
+ID                             : 15
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 19 b/s
+Count of elements              : 836
+Stream size                    : 19.7 KiB (0%)
+Title                          : Finnish
+Language                       : Finnish
+Default                        : No
+Forced                         : No
+
+Text #10
+ID                             : 16
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 21 b/s
+Count of elements              : 835
+Stream size                    : 21.2 KiB (0%)
+Title                          : French
+Language                       : French
+Default                        : No
+Forced                         : No
+
+Text #11
+ID                             : 17
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 26 b/s
+Count of elements              : 837
+Stream size                    : 26.6 KiB (0%)
+Title                          : Hebrew
+Language                       : Hebrew
+Default                        : No
+Forced                         : No
+
+Text #12
+ID                             : 18
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 17 b/s
+Count of elements              : 837
+Stream size                    : 17.7 KiB (0%)
+Title                          : Croatian
+Language                       : Croatian
+Default                        : No
+Forced                         : No
+
+Text #13
+ID                             : 19
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 19 b/s
+Count of elements              : 836
+Stream size                    : 19.3 KiB (0%)
+Title                          : Hungarian
+Language                       : Hungarian
+Default                        : No
+Forced                         : No
+
+Text #14
+ID                             : 20
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 20 b/s
+Count of elements              : 837
+Stream size                    : 20.5 KiB (0%)
+Title                          : Indonesian
+Language                       : Indonesian
+Default                        : No
+Forced                         : No
+
+Text #15
+ID                             : 21
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 20 b/s
+Count of elements              : 837
+Stream size                    : 20.2 KiB (0%)
+Title                          : Italian
+Language                       : Italian
+Default                        : No
+Forced                         : No
+
+Text #16
+ID                             : 22
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 37 b/s
+Count of elements              : 1123
+Stream size                    : 37.6 KiB (0%)
+Title                          : Japanese
+Language                       : Japanese
+Default                        : No
+Forced                         : No
+
+Text #17
+ID                             : 23
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 23 b/s
+Count of elements              : 833
+Stream size                    : 23.5 KiB (0%)
+Title                          : Korean
+Language                       : Korean
+Default                        : No
+Forced                         : No
+
+Text #18
+ID                             : 24
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 20 b/s
+Count of elements              : 836
+Stream size                    : 20.4 KiB (0%)
+Title                          : Malay
+Language                       : Malay
+Default                        : No
+Forced                         : No
+
+Text #19
+ID                             : 25
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 18 b/s
+Count of elements              : 837
+Stream size                    : 18.4 KiB (0%)
+Title                          : Norwegian
+Language                       : Norwegian Bokmal
+Default                        : No
+Forced                         : No
+
+Text #20
+ID                             : 26
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 19 b/s
+Count of elements              : 837
+Stream size                    : 19.2 KiB (0%)
+Title                          : Dutch
+Language                       : Dutch
+Default                        : No
+Forced                         : No
+
+Text #21
+ID                             : 27
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 18 b/s
+Count of elements              : 837
+Stream size                    : 18.4 KiB (0%)
+Title                          : Polish
+Language                       : Polish
+Default                        : No
+Forced                         : No
+
+Text #22
+ID                             : 28
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 19 b/s
+Count of elements              : 835
+Stream size                    : 19.6 KiB (0%)
+Title                          : Portuguese
+Language                       : Portuguese
+Default                        : No
+Forced                         : No
+
+Text #23
+ID                             : 29
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 20 b/s
+Count of elements              : 836
+Stream size                    : 20.2 KiB (0%)
+Title                          : Romanian
+Language                       : Romanian
+Default                        : No
+Forced                         : No
+
+Text #24
+ID                             : 30
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 35 b/s
+Count of elements              : 837
+Stream size                    : 35.2 KiB (0%)
+Title                          : Russian
+Language                       : Russian
+Default                        : No
+Forced                         : No
+
+Text #25
+ID                             : 31
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 19 b/s
+Count of elements              : 837
+Stream size                    : 19.3 KiB (0%)
+Title                          : Swedish
+Language                       : Swedish
+Default                        : No
+Forced                         : No
+
+Text #26
+ID                             : 32
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 58 b/s
+Count of elements              : 845
+Stream size                    : 58.2 KiB (0%)
+Title                          : Thai
+Language                       : Thai
+Default                        : No
+Forced                         : No
+
+Text #27
+ID                             : 33
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 19 b/s
+Count of elements              : 836
+Stream size                    : 19.7 KiB (0%)
+Title                          : Turkish
+Language                       : Turkish
+Default                        : No
+Forced                         : No
+
+Text #28
+ID                             : 34
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 29 b/s
+Count of elements              : 836
+Stream size                    : 29.7 KiB (0%)
+Title                          : Ukrainian
+Language                       : Ukrainian
+Default                        : No
+Forced                         : No
+
+Text #29
+ID                             : 35
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 17 min
+Bit rate                       : 26 b/s
+Count of elements              : 837
+Stream size                    : 26.3 KiB (0%)
+Title                          : VIetnamese
+Language                       : Vietnamese
+Default                        : No
+Forced                         : No
+
+Text #30
+ID                             : 36
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 16 min
+Bit rate                       : 20 b/s
+Count of elements              : 841
+Stream size                    : 20.5 KiB (0%)
+Title                          : Chinese
+Language                       : Chinese
+Default                        : No
+Forced                         : No
+
+Text #31
+ID                             : 37
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 2 h 16 min
+Bit rate                       : 21 b/s
+Count of elements              : 842
+Stream size                    : 21.3 KiB (0%)
+Title                          : Chinese
+Language                       : Chinese
+Default                        : No
+Forced                         : No
+
+Menu
+00:00:00.000                   : :Chapter 01
+00:06:24.384                   : :Chapter 02
+00:11:41.200                   : :Chapter 03
+00:19:19.200                   : :Chapter 04
+00:37:35.420                   : :Chapter 05
+00:59:35.238                   : :Chapter 06
+01:08:20.763                   : :Chapter 07
+01:21:01.106                   : :Chapter 08
+01:33:18.343                   : :Chapter 09
+01:46:01.397                   : :Chapter 10
+02:03:31.738                   : :Chapter 11
+02:08:44.926                   : :Chapter 12
